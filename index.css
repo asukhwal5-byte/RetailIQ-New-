@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-app: #f6f8fb;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f1f5f9;
+  --border: #e2e8f0;
+  --border-strong: #cbd5e1;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  --grid-line: #e2e8f0;
+}
+
+.dark {
+  --bg-app: #0b1220;
+  --bg-surface: #111a2e;
+  --bg-subtle: #18233a;
+  --border: #1f2d45;
+  --border-strong: #2c3e5e;
+  --text-primary: #f1f5f9;
+  --text-secondary: #aebbd1;
+  --text-muted: #6b7a99;
+  --grid-line: #1f2d45;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: var(--bg-app);
+  color: var(--text-primary);
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Surface helpers driven by CSS vars so dark/light switch without re-rendering chart cells */
+.bg-app { background-color: var(--bg-app); }
+.bg-surface { background-color: var(--bg-surface); }
+.bg-subtle { background-color: var(--bg-subtle); }
+.border-app { border-color: var(--border); }
+.border-app-strong { border-color: var(--border-strong); }
+.text-primary { color: var(--text-primary); }
+.text-secondary { color: var(--text-secondary); }
+.text-muted { color: var(--text-muted); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 6px; border: 2px solid transparent; background-clip: content-box; }
+::-webkit-scrollbar-thumb:hover { background: #64748b; background-clip: content-box; }
+
+/* Recharts theme overrides */
+.recharts-cartesian-grid line { stroke: var(--grid-line); }
+.recharts-cartesian-grid-horizontal line:last-child { display: none; }
+.recharts-text { fill: var(--text-secondary); font-size: 12px; }
+.recharts-tooltip-wrapper { outline: none !important; }
+.recharts-default-tooltip {
+  background-color: var(--bg-surface) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 8px 24px -8px rgb(16 24 40 / 0.18) !important;
+  padding: 10px 12px !important;
+}
+.recharts-tooltip-label { color: var(--text-primary) !important; font-weight: 600 !important; margin-bottom: 4px !important; }
+.recharts-tooltip-item { color: var(--text-secondary) !important; }
+.recharts-legend-item-text { color: var(--text-secondary) !important; }
+
+/* Thin focus ring */
+.focus-ring:focus-visible {
+  outline: 2px solid #2f8fff;
+  outline-offset: 2px;
+}
+
+/* Number tabulars for KPI alignment */
+.tnum { font-variant-numeric: tabular-nums; }

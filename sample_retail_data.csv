@@ -1,0 +1,1065 @@
+Date,Product,Category,Quantity,SellingPrice,CostPrice,Region,Customer
+2023-07-01,Bookshelf,Furniture,19,3704.27,2335.29,East,Kapoor Goods
+2023-07-01,USB-C Hub,Electronics,9,1409.61,869.47,Central,Joshi Wholesale
+2023-07-02,Denim Jacket,Apparel,6,1735.22,909.68,West,Malhotra Trading
+2023-07-03,Denim Jacket,Apparel,10,1745.6,952.97,North,Bose Retailers
+2023-07-04,Water Bottle,Home,35,334.11,142.19,North,Bose Retailers
+2023-07-04,Bluetooth Speaker,Electronics,12,2152.6,1340.35,North,Nair Commerce
+2023-07-04,Bookshelf,Furniture,18,3443.58,2267.73,North,Chopra Bazaar
+2023-07-05,Bluetooth Speaker,Electronics,29,2135.49,1342.99,North,Malhotra Trading
+2023-07-05,Bookshelf,Furniture,7,3375.12,2251.48,Central,Kapoor Goods
+2023-07-06,Wireless Mouse,Electronics,11,843.09,485.14,North,Gupta Enterprises
+2023-07-06,Notebook Set,Stationery,18,238.21,92.6,South,Das & Sons
+2023-07-07,Standing Desk,Furniture,18,12412.46,9213.55,North,Nair Commerce
+2023-07-07,Cookware Set,Home,22,3790.42,2409.34,West,Verma Stores
+2023-07-08,Cookware Set,Home,12,3886.52,2406.53,Central,Patel Mart
+2023-07-08,Bookshelf,Furniture,22,3301.84,2268.83,North,Mehta Retail
+2023-07-09,Notebook Set,Stationery,17,248.66,93.21,Central,Das & Sons
+2023-07-10,Office Chair,Furniture,25,6826.33,4482.7,South,Verma Stores
+2023-07-10,USB-C Hub,Electronics,19,1515.49,875.61,West,Khanna Outlets
+2023-07-10,Premium Pen,Stationery,9,681.45,289.15,East,Iyer Supplies
+2023-07-11,Denim Jacket,Apparel,6,1870.62,933.09,Central,Malhotra Trading
+2023-07-11,Notebook Set,Stationery,14,234.46,96.54,West,Malhotra Trading
+2023-07-11,Air Fryer,Home,7,5638.85,3469.63,North,Mehta Retail
+2023-07-12,Cotton T-Shirt,Apparel,23,518.17,230.01,North,Bose Retailers
+2023-07-12,Running Shoes,Apparel,12,2418.16,1358.62,North,Bose Retailers
+2023-07-12,Cotton T-Shirt,Apparel,108,524.31,224.67,East,Iyer Supplies
+2023-07-13,USB-C Hub,Electronics,11,1454.71,884.02,South,Sharma Traders
+2023-07-13,Notebook Set,Stationery,6,257.82,96.72,South,Mehta Retail
+2023-07-14,LED Desk Lamp,Home,10,1048.46,492.87,Central,Reddy Distributors
+2023-07-15,Denim Jacket,Apparel,20,1780.6,948.89,East,Agarwal Mart
+2023-07-15,Notebook Set,Stationery,19,263.49,95.16,West,Mehta Retail
+2023-07-15,Standing Desk,Furniture,23,13063.13,9189.52,East,Kapoor Goods
+2023-07-16,Bluetooth Speaker,Electronics,34,2114.51,1319.45,South,Verma Stores
+2023-07-16,Bookshelf,Furniture,23,3463.05,2226.27,West,Sharma Traders
+2023-07-17,LED Desk Lamp,Home,15,928.51,488.07,West,Sharma Traders
+2023-07-17,Office Chair,Furniture,14,6446.88,4287.6,North,Sharma Traders
+2023-07-18,Water Bottle,Home,41,299.86,136.34,South,Nair Commerce
+2023-07-18,Bluetooth Speaker,Electronics,33,2056.08,1302,East,Singh Sales
+2023-07-19,Bluetooth Speaker,Electronics,13,2153.31,1284.07,North,Joshi Wholesale
+2023-07-19,Air Fryer,Home,24,4677.18,3463.44,South,Iyer Supplies
+2023-07-20,Wireless Mouse,Electronics,12,808.9,482.63,North,Kapoor Goods
+2023-07-21,USB-C Hub,Electronics,28,1473.61,851.95,West,Mehta Retail
+2023-07-22,Denim Jacket,Apparel,11,1823.78,912.51,Central,Agarwal Mart
+2023-07-23,Wireless Mouse,Electronics,9,763.1,498.39,South,Khanna Outlets
+2023-07-23,USB-C Hub,Electronics,33,1546.67,847.26,South,Bose Retailers
+2023-07-23,Bluetooth Speaker,Electronics,34,2010.2,1285.02,South,Patel Mart
+2023-07-24,Premium Pen,Stationery,12,728.92,292.62,South,Chopra Bazaar
+2023-07-24,Bookshelf,Furniture,14,3610.43,2260.52,Central,Patel Mart
+2023-07-24,Bookshelf,Furniture,13,3647.75,2278.07,East,Nair Commerce
+2023-07-25,Wireless Mouse,Electronics,10,797.17,509.36,West,Rao Merchandise
+2023-07-26,Bookshelf,Furniture,15,3471.77,2271.5,Central,Patel Mart
+2023-07-27,Standing Desk,Furniture,24,13223.39,9455.71,North,Reddy Distributors
+2023-07-27,LED Desk Lamp,Home,9,995.04,502.75,South,Chopra Bazaar
+2023-07-27,Water Bottle,Home,22,350.64,136.16,Central,Verma Stores
+2023-07-28,Office Chair,Furniture,21,6173.67,4292.99,North,Bose Retailers
+2023-07-28,LED Desk Lamp,Home,23,997.08,505.98,Central,Verma Stores
+2023-07-29,Denim Jacket,Apparel,10,1755.27,960.54,North,Joshi Wholesale
+2023-07-29,Denim Jacket,Apparel,6,1753.76,926.31,North,Nair Retail Hub
+2023-07-30,Premium Pen,Stationery,14,611.88,291.53,South,Gupta Enterprises
+2023-07-30,USB-C Hub,Electronics,14,1502.01,870.5,West,Bose Retailers
+2023-07-30,Water Bottle,Home,35,346.81,141.31,East,Khanna Outlets
+2023-07-31,Air Fryer,Home,16,5690.17,3481.96,North,Iyer Supplies
+2023-07-31,Cotton T-Shirt,Apparel,21,518.84,223.85,Central,Reddy Distributors
+2023-07-31,Standing Desk,Furniture,20,13294.19,9095,Central,Gupta Enterprises
+2023-08-01,LED Desk Lamp,Home,26,1011.76,499.96,North,Gupta Enterprises
+2023-08-02,Premium Pen,Stationery,54,721.92,287.87,Central,Gupta Enterprises
+2023-08-02,Bookshelf,Furniture,16,3268.72,2292.05,West,Khanna Outlets
+2023-08-02,Water Bottle,Home,37,348.08,142.22,Central,Verma Stores
+2023-08-03,Notebook Set,Stationery,22,245.91,96.48,East,Das & Sons
+2023-08-03,Bookshelf,Furniture,14,3539.16,2320.42,Central,Agarwal Mart
+2023-08-03,LED Desk Lamp,Home,14,948.91,493.06,East,Gupta Enterprises
+2023-08-04,Standing Desk,Furniture,17,11762.71,9175.98,North,Mehta Retail
+2023-08-04,Air Fryer,Home,24,5103.27,3409.58,South,Sharma Traders
+2023-08-05,Standing Desk,Furniture,25,13758.51,9613.6,West,Mehta Retail
+2023-08-06,Notebook Set,Stationery,27,238.95,95.39,South,Agarwal Mart
+2023-08-06,Notebook Set,Stationery,17,243.76,93.75,Central,Nair Commerce
+2023-08-07,Running Shoes,Apparel,15,2354.46,1361.25,Central,Patel Mart
+2023-08-08,LED Desk Lamp,Home,14,1042.81,496.42,West,Nair Retail Hub
+2023-08-08,Notebook Set,Stationery,16,249.93,97.32,North,Mehta Retail
+2023-08-08,Air Fryer,Home,15,5289.06,3542.42,Central,Bose Retailers
+2023-08-09,Notebook Set,Stationery,17,246.76,93.49,West,Khanna Outlets
+2023-08-10,Bluetooth Speaker,Electronics,22,2169.99,1335.48,South,Nair Commerce
+2023-08-10,LED Desk Lamp,Home,14,961.92,503.21,North,Saxena Stores
+2023-08-11,Standing Desk,Furniture,22,13721.69,9370.83,East,Bose Retailers
+2023-08-11,Standing Desk,Furniture,11,13157.47,9620.75,South,Chopra Bazaar
+2023-08-11,Air Fryer,Home,17,5570.19,3546.84,North,Sharma Traders
+2023-08-12,Premium Pen,Stationery,22,705.22,290.92,Central,Bose Retailers
+2023-08-12,Bluetooth Speaker,Electronics,22,2212.93,1353.92,Central,Patel Mart
+2023-08-13,Premium Pen,Stationery,27,710.15,293.92,North,Kapoor Goods
+2023-08-14,Running Shoes,Apparel,22,2407.38,1374.38,South,Iyer Supplies
+2023-08-15,Water Bottle,Home,20,337.86,142.69,West,Nair Retail Hub
+2023-08-15,Wireless Mouse,Electronics,14,757.61,506.64,North,Iyer Supplies
+2023-08-16,LED Desk Lamp,Home,14,1051.79,492.99,South,Patel Mart
+2023-08-17,Cookware Set,Home,20,3963.59,2355.04,South,Agarwal Mart
+2023-08-17,Cookware Set,Home,13,4163.39,2400.4,West,Gupta Enterprises
+2023-08-18,Office Chair,Furniture,27,6285.22,4321.89,North,Kapoor Goods
+2023-08-19,Air Fryer,Home,24,5266.03,3442.81,East,Agarwal Mart
+2023-08-20,Water Bottle,Home,21,344.64,142.41,West,Reddy Distributors
+2023-08-20,Premium Pen,Stationery,8,732.28,295.84,North,Nair Retail Hub
+2023-08-21,Standing Desk,Furniture,10,11764.54,9176.1,North,Khanna Outlets
+2023-08-22,Notebook Set,Stationery,14,236.57,96.94,East,Mehta Retail
+2023-08-22,Office Chair,Furniture,15,6713.84,4443.12,East,Nair Commerce
+2023-08-23,Bluetooth Speaker,Electronics,126,2261.01,1316.63,East,Nair Commerce
+2023-08-23,Denim Jacket,Apparel,14,1796.66,929.21,West,Patel Mart
+2023-08-23,LED Desk Lamp,Home,8,1028.76,490.7,East,Saxena Stores
+2023-08-24,Water Bottle,Home,13,369.81,142.1,South,Rao Merchandise
+2023-08-25,Cotton T-Shirt,Apparel,35,487.82,227.72,North,Das & Sons
+2023-08-25,Office Chair,Furniture,8,5963.36,4415.69,Central,Gupta Enterprises
+2023-08-25,Bookshelf,Furniture,9,3586.17,2305.14,North,Das & Sons
+2023-08-26,Standing Desk,Furniture,18,12248.61,9104.85,North,Patel Mart
+2023-08-26,Bookshelf,Furniture,9,3564.7,2281.97,South,Nair Retail Hub
+2023-08-26,Denim Jacket,Apparel,19,1786.93,941.95,North,Reddy Distributors
+2023-08-27,Bluetooth Speaker,Electronics,25,2188.81,1303,North,Sharma Traders
+2023-08-28,Running Shoes,Apparel,30,2629.93,1343.09,South,Reddy Distributors
+2023-08-28,LED Desk Lamp,Home,7,996.06,498.96,Central,Rao Merchandise
+2023-08-29,USB-C Hub,Electronics,11,1514.62,891.54,East,Malhotra Trading
+2023-08-30,LED Desk Lamp,Home,14,1036.39,499.81,North,Mehta Retail
+2023-08-30,Air Fryer,Home,24,5647.25,3402.19,South,Bose Retailers
+2023-08-31,Notebook Set,Stationery,14,263.78,93.08,South,Sharma Traders
+2023-08-31,Wireless Mouse,Electronics,16,756.35,499.73,West,Singh Sales
+2023-09-01,USB-C Hub,Electronics,29,1560.15,855.35,North,Joshi Wholesale
+2023-09-01,Air Fryer,Home,108,5433.62,3562.46,South,Patel Mart
+2023-09-02,Water Bottle,Home,104,338.09,143.2,South,Sharma Traders
+2023-09-02,Water Bottle,Home,14,332.99,137.47,South,Sharma Traders
+2023-09-02,Bluetooth Speaker,Electronics,26,2170.03,1285.85,North,Mehta Retail
+2023-09-03,Premium Pen,Stationery,34,665.02,289.31,East,Mehta Retail
+2023-09-04,Bookshelf,Furniture,9,3333.27,2255.85,East,Reddy Distributors
+2023-09-04,Office Chair,Furniture,15,6800.5,4377.5,East,Singh Sales
+2023-09-04,Running Shoes,Apparel,18,2361.6,1375.21,West,Joshi Wholesale
+2023-09-05,Notebook Set,Stationery,38,240.39,92.29,West,Iyer Supplies
+2023-09-06,Water Bottle,Home,29,334.4,143.67,South,Nair Retail Hub
+2023-09-07,Bluetooth Speaker,Electronics,10,2317.84,1294.38,East,Nair Retail Hub
+2023-09-07,Standing Desk,Furniture,17,11082.6,9279.98,Central,Kapoor Goods
+2023-09-08,Denim Jacket,Apparel,9,1791.74,944.46,East,Saxena Stores
+2023-09-08,Cotton T-Shirt,Apparel,20,474.38,230.09,West,Bose Retailers
+2023-09-09,USB-C Hub,Electronics,33,1443.21,890.64,South,Das & Sons
+2023-09-09,Premium Pen,Stationery,17,696.17,301.09,South,Verma Stores
+2023-09-09,USB-C Hub,Electronics,31,1588.92,885.34,South,Reddy Distributors
+2023-09-10,Premium Pen,Stationery,18,697.91,301.02,North,Khanna Outlets
+2023-09-11,Bluetooth Speaker,Electronics,30,2108.16,1324.3,Central,Sharma Traders
+2023-09-11,Notebook Set,Stationery,10,240.77,93.12,Central,Das & Sons
+2023-09-12,Bluetooth Speaker,Electronics,18,2226.26,1308.96,South,Kapoor Goods
+2023-09-13,Bluetooth Speaker,Electronics,12,1904.36,1358.75,Central,Bose Retailers
+2023-09-14,Running Shoes,Apparel,27,2619.19,1340.92,South,Das & Sons
+2023-09-15,LED Desk Lamp,Home,31,943.32,502.58,East,Kapoor Goods
+2023-09-15,Office Chair,Furniture,30,6811.28,4473.54,South,Das & Sons
+2023-09-15,Premium Pen,Stationery,23,679.55,296.28,North,Rao Merchandise
+2023-09-16,Bluetooth Speaker,Electronics,16,2172.73,1317.89,Central,Agarwal Mart
+2023-09-16,USB-C Hub,Electronics,17,1566.29,882.97,East,Saxena Stores
+2023-09-17,Bluetooth Speaker,Electronics,16,2261.03,1325.93,West,Patel Mart
+2023-09-17,Water Bottle,Home,27,364,138.39,East,Chopra Bazaar
+2023-09-17,Office Chair,Furniture,32,6577.33,4346.01,North,Nair Commerce
+2023-09-18,LED Desk Lamp,Home,29,1035.46,512.76,East,Mehta Retail
+2023-09-19,LED Desk Lamp,Home,16,963.94,497.9,West,Sharma Traders
+2023-09-19,Air Fryer,Home,22,5675.17,3522.47,East,Agarwal Mart
+2023-09-20,Office Chair,Furniture,31,6781.13,4474.43,West,Joshi Wholesale
+2023-09-21,Running Shoes,Apparel,19,2496.26,1340.87,West,Singh Sales
+2023-09-21,Running Shoes,Apparel,10,2375.01,1392.42,West,Gupta Enterprises
+2023-09-21,Office Chair,Furniture,19,5778.47,4292.59,North,Iyer Supplies
+2023-09-22,Office Chair,Furniture,10,6863.22,4502.27,East,Khanna Outlets
+2023-09-23,Running Shoes,Apparel,12,2606.82,1355.59,East,Patel Mart
+2023-09-23,Running Shoes,Apparel,12,2630.45,1378.27,East,Gupta Enterprises
+2023-09-24,Air Fryer,Home,34,4832.79,3458.47,South,Bose Retailers
+2023-09-24,Running Shoes,Apparel,16,2473.24,1375.26,Central,Khanna Outlets
+2023-09-25,Office Chair,Furniture,9,6308.46,4360.17,South,Reddy Distributors
+2023-09-25,Denim Jacket,Apparel,18,1777.14,908.78,West,Reddy Distributors
+2023-09-25,Cotton T-Shirt,Apparel,19,459.47,230.83,North,Rao Merchandise
+2023-09-26,LED Desk Lamp,Home,28,973.98,493.11,North,Iyer Supplies
+2023-09-26,Air Fryer,Home,9,5775.46,3382.22,South,Rao Merchandise
+2023-09-26,Premium Pen,Stationery,30,661.49,286.06,Central,Chopra Bazaar
+2023-09-27,USB-C Hub,Electronics,24,1581.45,876.33,South,Verma Stores
+2023-09-28,Standing Desk,Furniture,25,13611.54,9246.74,East,Mehta Retail
+2023-09-28,Cookware Set,Home,60,4125.82,2345.46,North,Reddy Distributors
+2023-09-29,Air Fryer,Home,25,5169.13,3478.11,South,Reddy Distributors
+2023-09-29,Cotton T-Shirt,Apparel,8,478.71,224.44,South,Mehta Retail
+2023-09-30,Water Bottle,Home,23,362.57,140.82,North,Mehta Retail
+2023-09-30,Cookware Set,Home,9,4186.7,2341.45,West,Sharma Traders
+2023-09-30,Wireless Mouse,Electronics,22,786.34,504.25,East,Malhotra Trading
+2023-10-01,Denim Jacket,Apparel,34,1843.7,916.37,West,Patel Mart
+2023-10-02,Wireless Mouse,Electronics,34,835.9,490.18,East,Mehta Retail
+2023-10-02,Wireless Mouse,Electronics,26,759.35,496.62,East,Bose Retailers
+2023-10-02,Premium Pen,Stationery,33,725.31,301.99,East,Reddy Distributors
+2023-10-03,Wireless Mouse,Electronics,14,846.19,495.32,Central,Rao Merchandise
+2023-10-03,Water Bottle,Home,24,356.17,136.47,North,Malhotra Trading
+2023-10-04,LED Desk Lamp,Home,26,956.3,494.48,South,Rao Merchandise
+2023-10-04,Cotton T-Shirt,Apparel,9,422.24,222.09,South,Iyer Supplies
+2023-10-05,Premium Pen,Stationery,24,736.16,294.92,Central,Verma Stores
+2023-10-05,Denim Jacket,Apparel,33,1743.44,958.35,South,Joshi Wholesale
+2023-10-06,Water Bottle,Home,18,368.23,143.64,South,Nair Retail Hub
+2023-10-06,Cookware Set,Home,10,3792.02,2414.61,East,Agarwal Mart
+2023-10-07,Cotton T-Shirt,Apparel,13,528.86,224.86,South,Iyer Supplies
+2023-10-07,Office Chair,Furniture,21,5752.78,4524.59,West,Bose Retailers
+2023-10-08,Denim Jacket,Apparel,21,1799.58,951.7,North,Malhotra Trading
+2023-10-08,Water Bottle,Home,33,336.26,142.48,West,Iyer Supplies
+2023-10-08,Running Shoes,Apparel,25,2539.89,1377.77,West,Nair Commerce
+2023-10-09,Cotton T-Shirt,Apparel,11,522.47,223.02,South,Das & Sons
+2023-10-09,Air Fryer,Home,33,5782.63,3484.85,North,Khanna Outlets
+2023-10-09,Cookware Set,Home,31,4173.81,2421.58,South,Singh Sales
+2023-10-10,Premium Pen,Stationery,13,694,294.78,South,Reddy Distributors
+2023-10-10,Cotton T-Shirt,Apparel,18,497.06,224.68,North,Malhotra Trading
+2023-10-10,LED Desk Lamp,Home,12,954.83,493.4,West,Bose Retailers
+2023-10-11,USB-C Hub,Electronics,21,1501.08,863.84,East,Khanna Outlets
+2023-10-12,Running Shoes,Apparel,12,2555.08,1336.73,West,Malhotra Trading
+2023-10-12,Notebook Set,Stationery,25,237.08,93.88,North,Patel Mart
+2023-10-13,Cotton T-Shirt,Apparel,10,488.18,228.27,North,Joshi Wholesale
+2023-10-13,Bluetooth Speaker,Electronics,14,2311.32,1285.2,East,Patel Mart
+2023-10-14,USB-C Hub,Electronics,17,1561.76,876.86,North,Gupta Enterprises
+2023-10-14,LED Desk Lamp,Home,10,940.12,503.88,Central,Patel Mart
+2023-10-14,Bookshelf,Furniture,32,3569.87,2227.28,East,Kapoor Goods
+2023-10-15,Standing Desk,Furniture,16,12323.56,9426.2,West,Verma Stores
+2023-10-15,Running Shoes,Apparel,15,2458.82,1342.18,South,Iyer Supplies
+2023-10-16,Bluetooth Speaker,Electronics,11,2156.5,1336.78,East,Rao Merchandise
+2023-10-16,USB-C Hub,Electronics,21,1427.57,861.05,East,Kapoor Goods
+2023-10-16,Bluetooth Speaker,Electronics,23,2086.19,1348.28,East,Gupta Enterprises
+2023-10-17,Wireless Mouse,Electronics,16,780.78,483.98,Central,Bose Retailers
+2023-10-17,Notebook Set,Stationery,35,240.2,94.82,West,Patel Mart
+2023-10-17,Cookware Set,Home,13,4016.92,2383.16,East,Patel Mart
+2023-10-18,Bookshelf,Furniture,19,3325.66,2267.87,Central,Rao Merchandise
+2023-10-18,Premium Pen,Stationery,11,709.27,295.33,North,Chopra Bazaar
+2023-10-19,Cotton T-Shirt,Apparel,27,515.91,220.01,South,Malhotra Trading
+2023-10-19,Cookware Set,Home,9,3957.51,2356.49,North,Patel Mart
+2023-10-20,LED Desk Lamp,Home,23,875.15,499.85,West,Mehta Retail
+2023-10-20,Notebook Set,Stationery,40,235.68,96.33,Central,Bose Retailers
+2023-10-21,Bookshelf,Furniture,18,3313.28,2241.97,South,Singh Sales
+2023-10-22,Bookshelf,Furniture,22,3644.2,2304.29,West,Patel Mart
+2023-10-23,Bluetooth Speaker,Electronics,28,2247.41,1346.5,North,Khanna Outlets
+2023-10-23,Premium Pen,Stationery,36,691.08,285.83,East,Das & Sons
+2023-10-24,Bluetooth Speaker,Electronics,11,2155.05,1291.91,West,Reddy Distributors
+2023-10-24,Cookware Set,Home,20,3505.7,2341.78,South,Chopra Bazaar
+2023-10-25,Running Shoes,Apparel,16,2550.79,1382.07,East,Patel Mart
+2023-10-25,Standing Desk,Furniture,13,12951.24,9245.84,West,Saxena Stores
+2023-10-26,Standing Desk,Furniture,23,12472.15,9411.03,Central,Agarwal Mart
+2023-10-26,LED Desk Lamp,Home,11,939.95,507.01,Central,Joshi Wholesale
+2023-10-27,LED Desk Lamp,Home,13,965.5,485.06,East,Bose Retailers
+2023-10-27,LED Desk Lamp,Home,14,979.92,489.13,South,Malhotra Trading
+2023-10-28,Cotton T-Shirt,Apparel,26,488.8,228.62,North,Joshi Wholesale
+2023-10-28,Notebook Set,Stationery,23,236.24,94.22,East,Bose Retailers
+2023-10-28,Office Chair,Furniture,29,6572.81,4483.19,North,Iyer Supplies
+2023-10-29,Wireless Mouse,Electronics,13,758.32,502.17,Central,Patel Mart
+2023-10-30,Cotton T-Shirt,Apparel,8,455.17,228,East,Patel Mart
+2023-10-30,Wireless Mouse,Electronics,16,783.64,508.21,South,Singh Sales
+2023-10-30,Cookware Set,Home,10,3692.04,2451.21,Central,Singh Sales
+2023-10-31,Office Chair,Furniture,9,5685.18,4411.98,East,Reddy Distributors
+2023-10-31,LED Desk Lamp,Home,16,1048.83,514.24,North,Singh Sales
+2023-11-01,USB-C Hub,Electronics,14,1413.25,870.37,South,Agarwal Mart
+2023-11-02,Bookshelf,Furniture,24,3400.42,2336,South,Bose Retailers
+2023-11-03,Cotton T-Shirt,Apparel,14,511.3,228.22,North,Malhotra Trading
+2023-11-03,Denim Jacket,Apparel,24,1700.94,919.6,South,Iyer Supplies
+2023-11-04,Running Shoes,Apparel,16,2542.08,1393.4,South,Chopra Bazaar
+2023-11-04,Standing Desk,Furniture,11,13044.73,9556.82,West,Gupta Enterprises
+2023-11-05,Denim Jacket,Apparel,38,1901.58,909.35,West,Chopra Bazaar
+2023-11-05,Bookshelf,Furniture,10,3535.57,2332.09,East,Rao Merchandise
+2023-11-06,Cookware Set,Home,39,4168.83,2380.15,East,Rao Merchandise
+2023-11-07,LED Desk Lamp,Home,20,972.19,491.77,North,Malhotra Trading
+2023-11-08,Bluetooth Speaker,Electronics,21,2252.54,1288.49,West,Chopra Bazaar
+2023-11-08,Water Bottle,Home,8,369.88,135.42,Central,Singh Sales
+2023-11-09,Bookshelf,Furniture,30,3639.19,2282.75,East,Patel Mart
+2023-11-09,Wireless Mouse,Electronics,16,752.61,489.99,Central,Sharma Traders
+2023-11-09,USB-C Hub,Electronics,32,1505.53,883.92,North,Khanna Outlets
+2023-11-10,Bluetooth Speaker,Electronics,32,2128.57,1327.14,South,Kapoor Goods
+2023-11-10,LED Desk Lamp,Home,17,1017,508.03,South,Sharma Traders
+2023-11-11,USB-C Hub,Electronics,19,1387.09,857.56,West,Malhotra Trading
+2023-11-11,Cotton T-Shirt,Apparel,18,526.27,229.18,South,Das & Sons
+2023-11-11,LED Desk Lamp,Home,160,978.6,501.5,West,Singh Sales
+2023-11-12,USB-C Hub,Electronics,44,1584.54,854.05,West,Kapoor Goods
+2023-11-13,Standing Desk,Furniture,19,12987.46,9412.56,South,Joshi Wholesale
+2023-11-13,Denim Jacket,Apparel,24,1763.83,935.51,Central,Iyer Supplies
+2023-11-13,Cotton T-Shirt,Apparel,19,513.15,230.06,North,Nair Retail Hub
+2023-11-14,USB-C Hub,Electronics,40,1576.87,887.04,Central,Agarwal Mart
+2023-11-15,Running Shoes,Apparel,23,2527.97,1408.37,North,Gupta Enterprises
+2023-11-15,Running Shoes,Apparel,8,2215.37,1341.79,Central,Joshi Wholesale
+2023-11-15,Wireless Mouse,Electronics,28,780.29,481.33,West,Gupta Enterprises
+2023-11-16,Denim Jacket,Apparel,20,1892.71,957.21,Central,Patel Mart
+2023-11-16,Water Bottle,Home,13,333.51,138.3,Central,Das & Sons
+2023-11-16,LED Desk Lamp,Home,26,1012.67,507.15,West,Agarwal Mart
+2023-11-17,USB-C Hub,Electronics,34,1390.63,875.5,Central,Kapoor Goods
+2023-11-17,Running Shoes,Apparel,21,2464.47,1375.43,North,Nair Retail Hub
+2023-11-18,Standing Desk,Furniture,25,13217.45,9164.49,North,Joshi Wholesale
+2023-11-18,Cotton T-Shirt,Apparel,13,491.47,226.36,South,Verma Stores
+2023-11-18,Bookshelf,Furniture,37,3504.54,2315.5,North,Iyer Supplies
+2023-11-19,LED Desk Lamp,Home,22,912.53,489.3,Central,Kapoor Goods
+2023-11-20,Office Chair,Furniture,18,6308.79,4359.31,North,Rao Merchandise
+2023-11-21,Bluetooth Speaker,Electronics,16,2048.27,1333.15,East,Sharma Traders
+2023-11-21,Office Chair,Furniture,80,6809.33,4349.26,Central,Patel Mart
+2023-11-22,Denim Jacket,Apparel,31,1877.97,917.63,West,Verma Stores
+2023-11-22,Water Bottle,Home,19,333.1,143.17,North,Kapoor Goods
+2023-11-22,Cookware Set,Home,12,3565.59,2341.93,East,Iyer Supplies
+2023-11-23,Bookshelf,Furniture,12,3516.02,2268.65,South,Nair Commerce
+2023-11-23,Bluetooth Speaker,Electronics,34,2186.58,1289.06,North,Bose Retailers
+2023-11-24,Cotton T-Shirt,Apparel,20,492.55,224.88,East,Nair Commerce
+2023-11-24,Standing Desk,Furniture,30,13306.44,9296.64,Central,Iyer Supplies
+2023-11-25,Standing Desk,Furniture,30,11680.55,9246.91,South,Nair Commerce
+2023-11-25,Air Fryer,Home,44,5750.62,3568.02,East,Mehta Retail
+2023-11-25,LED Desk Lamp,Home,21,1036.2,499.15,Central,Khanna Outlets
+2023-11-26,Office Chair,Furniture,28,6331.47,4379.54,East,Gupta Enterprises
+2023-11-27,Bluetooth Speaker,Electronics,24,2249.8,1356.74,North,Mehta Retail
+2023-11-27,Premium Pen,Stationery,16,675.47,286.01,Central,Iyer Supplies
+2023-11-27,Bookshelf,Furniture,20,3532.75,2305,Central,Bose Retailers
+2023-11-28,USB-C Hub,Electronics,11,1493.64,876.77,East,Mehta Retail
+2023-11-28,Bookshelf,Furniture,29,3458.22,2230.12,Central,Reddy Distributors
+2023-11-29,Denim Jacket,Apparel,31,1779.15,914.55,Central,Nair Retail Hub
+2023-11-29,Water Bottle,Home,8,369.54,138.84,West,Khanna Outlets
+2023-11-29,Denim Jacket,Apparel,35,1734.01,930.23,Central,Bose Retailers
+2023-11-30,Premium Pen,Stationery,22,731.81,289.92,South,Verma Stores
+2023-11-30,Bookshelf,Furniture,15,3381.02,2333.8,West,Iyer Supplies
+2023-11-30,Cookware Set,Home,38,4125.63,2342.17,Central,Agarwal Mart
+2023-12-01,Office Chair,Furniture,13,6073.58,4319.98,West,Nair Commerce
+2023-12-01,Running Shoes,Apparel,18,2306.5,1371.85,Central,Reddy Distributors
+2023-12-01,Cotton T-Shirt,Apparel,5,486.49,227.93,East,Malhotra Trading
+2023-12-02,Bluetooth Speaker,Electronics,34,2097.7,1320.9,East,Mehta Retail
+2023-12-02,Office Chair,Furniture,19,6195.58,4524.55,North,Malhotra Trading
+2023-12-02,Wireless Mouse,Electronics,20,817.31,484.39,South,Reddy Distributors
+2023-12-03,USB-C Hub,Electronics,49,1466.32,879.42,North,Sharma Traders
+2023-12-03,Office Chair,Furniture,27,6462.4,4544.99,South,Reddy Distributors
+2023-12-04,Standing Desk,Furniture,24,11240.75,9156.43,North,Mehta Retail
+2023-12-05,Cotton T-Shirt,Apparel,6,496.37,218.12,North,Rao Merchandise
+2023-12-05,Premium Pen,Stationery,11,662.96,286.23,South,Agarwal Mart
+2023-12-06,Standing Desk,Furniture,10,12813.73,9457.68,East,Verma Stores
+2023-12-06,Notebook Set,Stationery,20,229.32,96.36,North,Das & Sons
+2023-12-07,Bookshelf,Furniture,11,3359.59,2329.49,Central,Rao Merchandise
+2023-12-07,Water Bottle,Home,18,345.02,142.6,Central,Mehta Retail
+2023-12-07,Office Chair,Furniture,17,6485.25,4443.59,West,Bose Retailers
+2023-12-08,Bluetooth Speaker,Electronics,34,2006.41,1316.13,East,Nair Retail Hub
+2023-12-08,LED Desk Lamp,Home,19,1023.32,511.06,Central,Mehta Retail
+2023-12-08,Air Fryer,Home,26,5619.56,3370.96,East,Nair Retail Hub
+2023-12-09,Cookware Set,Home,37,3882.86,2352.84,Central,Verma Stores
+2023-12-10,Notebook Set,Stationery,23,214.28,92.59,South,Chopra Bazaar
+2023-12-11,Standing Desk,Furniture,20,11225.69,9442.85,South,Mehta Retail
+2023-12-11,Running Shoes,Apparel,11,2318.93,1365.16,Central,Nair Commerce
+2023-12-12,Bluetooth Speaker,Electronics,40,2194.13,1294.22,West,Khanna Outlets
+2023-12-12,Air Fryer,Home,26,5218.28,3370.63,North,Rao Merchandise
+2023-12-12,LED Desk Lamp,Home,32,1042.73,502.91,North,Malhotra Trading
+2023-12-13,Wireless Mouse,Electronics,22,748.88,500.3,South,Kapoor Goods
+2023-12-14,Bluetooth Speaker,Electronics,32,2285.66,1309.49,West,Chopra Bazaar
+2023-12-14,Standing Desk,Furniture,19,13256.15,9255.95,South,Reddy Distributors
+2023-12-14,Bluetooth Speaker,Electronics,12,2206.09,1302.59,Central,Saxena Stores
+2023-12-15,Denim Jacket,Apparel,78,1824.91,936.43,South,Joshi Wholesale
+2023-12-15,Office Chair,Furniture,17,6819.4,4476.73,North,Kapoor Goods
+2023-12-16,LED Desk Lamp,Home,38,969.04,511.71,East,Agarwal Mart
+2023-12-16,Standing Desk,Furniture,32,12265.4,9629.75,East,Patel Mart
+2023-12-17,Air Fryer,Home,27,5244.15,3498.48,East,Agarwal Mart
+2023-12-17,Cotton T-Shirt,Apparel,13,477.54,228.78,South,Malhotra Trading
+2023-12-18,Wireless Mouse,Electronics,25,838.28,481.98,North,Sharma Traders
+2023-12-18,Notebook Set,Stationery,11,234.98,92.27,North,Nair Commerce
+2023-12-18,Wireless Mouse,Electronics,22,763.41,506.53,West,Singh Sales
+2023-12-19,Running Shoes,Apparel,24,2455.5,1406.98,North,Joshi Wholesale
+2023-12-19,USB-C Hub,Electronics,12,1421.4,888.67,West,Bose Retailers
+2023-12-20,LED Desk Lamp,Home,23,998.11,508.41,Central,Gupta Enterprises
+2023-12-20,Bluetooth Speaker,Electronics,18,2110.55,1322.17,South,Nair Retail Hub
+2023-12-20,Standing Desk,Furniture,20,12625.16,9419.62,South,Saxena Stores
+2023-12-21,Running Shoes,Apparel,14,2416.23,1339.48,West,Singh Sales
+2023-12-21,Notebook Set,Stationery,12,256.17,92.35,Central,Gupta Enterprises
+2023-12-22,Cotton T-Shirt,Apparel,14,512.59,228.91,West,Joshi Wholesale
+2023-12-22,LED Desk Lamp,Home,29,963.89,511.93,East,Nair Retail Hub
+2023-12-22,Denim Jacket,Apparel,29,1710.16,941.89,East,Bose Retailers
+2023-12-23,Denim Jacket,Apparel,26,1873.68,920.3,East,Nair Retail Hub
+2023-12-23,Bookshelf,Furniture,15,3365.64,2261.37,West,Nair Commerce
+2023-12-24,USB-C Hub,Electronics,26,1271.57,850.09,Central,Reddy Distributors
+2023-12-24,Premium Pen,Stationery,12,659.56,296.55,West,Reddy Distributors
+2023-12-25,USB-C Hub,Electronics,36,1547.31,853.79,South,Rao Merchandise
+2023-12-25,USB-C Hub,Electronics,27,1421.44,879.66,South,Reddy Distributors
+2023-12-25,Standing Desk,Furniture,26,12847.55,9213.11,South,Joshi Wholesale
+2023-12-26,Cookware Set,Home,22,4074.65,2466.31,East,Chopra Bazaar
+2023-12-26,Denim Jacket,Apparel,17,1778.99,940.17,South,Agarwal Mart
+2023-12-26,Denim Jacket,Apparel,12,1750.1,950.5,South,Nair Commerce
+2023-12-27,Bluetooth Speaker,Electronics,34,2140.62,1348.4,North,Das & Sons
+2023-12-27,Air Fryer,Home,40,5733.72,3478.16,Central,Saxena Stores
+2023-12-27,Bluetooth Speaker,Electronics,35,2323.74,1284.93,East,Sharma Traders
+2023-12-28,Air Fryer,Home,34,5456.07,3540.49,East,Saxena Stores
+2023-12-29,Notebook Set,Stationery,21,263.75,91.91,Central,Joshi Wholesale
+2023-12-29,Bluetooth Speaker,Electronics,15,2077.99,1320.53,West,Joshi Wholesale
+2023-12-30,Bookshelf,Furniture,13,3547.4,2312.68,North,Chopra Bazaar
+2023-12-30,Wireless Mouse,Electronics,24,812.45,495.27,West,Malhotra Trading
+2023-12-30,Water Bottle,Home,17,345.06,136.47,South,Khanna Outlets
+2023-12-31,Denim Jacket,Apparel,38,1595.97,910.33,North,Das & Sons
+2023-12-31,Office Chair,Furniture,21,6707.78,4492.2,East,Nair Retail Hub
+2023-12-31,USB-C Hub,Electronics,39,1378.82,881.79,South,Malhotra Trading
+2024-01-01,Water Bottle,Home,16,355.95,143.77,North,Saxena Stores
+2024-01-01,USB-C Hub,Electronics,14,1459.73,849.82,Central,Kapoor Goods
+2024-01-02,Bookshelf,Furniture,26,3629.15,2211.22,East,Chopra Bazaar
+2024-01-02,Wireless Mouse,Electronics,18,778.51,504.13,West,Joshi Wholesale
+2024-01-02,Denim Jacket,Apparel,8,1797.88,959.61,East,Singh Sales
+2024-01-03,Cookware Set,Home,14,3768.37,2372.29,North,Bose Retailers
+2024-01-03,Wireless Mouse,Electronics,21,805.84,484.96,Central,Mehta Retail
+2024-01-04,Cookware Set,Home,16,4064.61,2433.56,North,Reddy Distributors
+2024-01-04,Standing Desk,Furniture,13,12549.45,9327.98,South,Bose Retailers
+2024-01-05,Running Shoes,Apparel,8,2185.09,1397.63,North,Das & Sons
+2024-01-06,Running Shoes,Apparel,16,2609.03,1361.66,North,Verma Stores
+2024-01-06,LED Desk Lamp,Home,14,1043.59,484.62,South,Mehta Retail
+2024-01-06,Standing Desk,Furniture,15,12816.66,9310.76,South,Rao Merchandise
+2024-01-07,Standing Desk,Furniture,15,11576.78,9554.58,East,Chopra Bazaar
+2024-01-07,Wireless Mouse,Electronics,18,844.53,487.02,Central,Iyer Supplies
+2024-01-07,Running Shoes,Apparel,17,2392.76,1346.01,West,Mehta Retail
+2024-01-08,USB-C Hub,Electronics,96,1473.08,854.87,Central,Joshi Wholesale
+2024-01-08,Water Bottle,Home,9,354.13,142.6,West,Rao Merchandise
+2024-01-08,Notebook Set,Stationery,10,251.3,96.84,East,Rao Merchandise
+2024-01-09,Cotton T-Shirt,Apparel,11,487.91,225.98,North,Nair Commerce
+2024-01-09,Bluetooth Speaker,Electronics,10,2115.04,1305.01,South,Sharma Traders
+2024-01-09,Cookware Set,Home,27,3850.44,2413.66,East,Saxena Stores
+2024-01-10,USB-C Hub,Electronics,8,1584.91,867.66,West,Kapoor Goods
+2024-01-11,Standing Desk,Furniture,16,13757.24,9122.14,East,Mehta Retail
+2024-01-11,Denim Jacket,Apparel,11,1787.6,935.75,South,Sharma Traders
+2024-01-11,Cotton T-Shirt,Apparel,13,495.9,219.95,South,Khanna Outlets
+2024-01-12,Premium Pen,Stationery,14,660.74,297.51,North,Chopra Bazaar
+2024-01-13,Bluetooth Speaker,Electronics,24,2096.63,1282.96,Central,Iyer Supplies
+2024-01-14,Cookware Set,Home,88,4073.06,2344.1,East,Chopra Bazaar
+2024-01-14,Bookshelf,Furniture,15,3108.05,2238.62,Central,Joshi Wholesale
+2024-01-15,Cookware Set,Home,13,3846.03,2402.74,North,Kapoor Goods
+2024-01-15,Air Fryer,Home,85,5737.12,3503.74,North,Singh Sales
+2024-01-15,Air Fryer,Home,9,5208.32,3534.15,West,Nair Retail Hub
+2024-01-16,Running Shoes,Apparel,25,2586.1,1366.61,North,Sharma Traders
+2024-01-16,Wireless Mouse,Electronics,30,811.13,482.3,South,Nair Retail Hub
+2024-01-17,LED Desk Lamp,Home,28,987.63,490.43,Central,Das & Sons
+2024-01-18,Air Fryer,Home,11,5636.93,3543.21,Central,Sharma Traders
+2024-01-19,Office Chair,Furniture,9,6594.5,4403.98,East,Bose Retailers
+2024-01-19,LED Desk Lamp,Home,10,941.72,510.8,East,Nair Retail Hub
+2024-01-19,Notebook Set,Stationery,12,247.84,94.55,East,Malhotra Trading
+2024-01-20,USB-C Hub,Electronics,19,1413.57,876.32,South,Chopra Bazaar
+2024-01-20,Standing Desk,Furniture,30,12721.91,9590.49,East,Kapoor Goods
+2024-01-21,Bluetooth Speaker,Electronics,25,2163.24,1293.31,Central,Joshi Wholesale
+2024-01-22,Denim Jacket,Apparel,21,1902.82,924.06,South,Kapoor Goods
+2024-01-22,Notebook Set,Stationery,18,242.47,96.08,West,Reddy Distributors
+2024-01-22,Running Shoes,Apparel,15,2357.8,1346.16,South,Patel Mart
+2024-01-23,Cotton T-Shirt,Apparel,13,475.72,226.83,East,Mehta Retail
+2024-01-24,Cookware Set,Home,8,4177.72,2359.1,North,Khanna Outlets
+2024-01-25,Water Bottle,Home,10,363.73,137.8,South,Das & Sons
+2024-01-25,Cookware Set,Home,20,3627.44,2359.65,North,Nair Commerce
+2024-01-26,Standing Desk,Furniture,24,13761.43,9158.65,North,Singh Sales
+2024-01-27,Cotton T-Shirt,Apparel,8,471.23,221.6,South,Khanna Outlets
+2024-01-27,Bluetooth Speaker,Electronics,24,2174.09,1338.47,Central,Singh Sales
+2024-01-27,Running Shoes,Apparel,23,2172.09,1402.19,Central,Agarwal Mart
+2024-01-28,USB-C Hub,Electronics,16,1566.21,855.96,North,Kapoor Goods
+2024-01-29,Notebook Set,Stationery,42,262.84,91.93,East,Reddy Distributors
+2024-01-29,Bluetooth Speaker,Electronics,22,2182.55,1356.7,South,Malhotra Trading
+2024-01-30,Denim Jacket,Apparel,19,1620.11,951.05,South,Saxena Stores
+2024-01-31,Bookshelf,Furniture,30,3428.86,2293.34,Central,Kapoor Goods
+2024-02-01,Running Shoes,Apparel,10,2380.86,1378.06,West,Agarwal Mart
+2024-02-01,Cookware Set,Home,17,4170.54,2410.62,East,Chopra Bazaar
+2024-02-01,LED Desk Lamp,Home,30,1041.32,503.32,North,Bose Retailers
+2024-02-02,Premium Pen,Stationery,14,685.57,301.97,South,Nair Commerce
+2024-02-02,Premium Pen,Stationery,8,698.52,300.9,East,Bose Retailers
+2024-02-03,LED Desk Lamp,Home,24,1038.82,489.8,West,Nair Retail Hub
+2024-02-04,LED Desk Lamp,Home,9,952.12,511.3,East,Verma Stores
+2024-02-04,Notebook Set,Stationery,18,240.77,96.37,South,Joshi Wholesale
+2024-02-05,Premium Pen,Stationery,20,612.78,295.88,North,Reddy Distributors
+2024-02-05,Standing Desk,Furniture,20,13703.38,9512.62,North,Chopra Bazaar
+2024-02-06,Standing Desk,Furniture,25,12878.19,9376.13,West,Nair Retail Hub
+2024-02-06,LED Desk Lamp,Home,9,985.82,485.31,North,Khanna Outlets
+2024-02-07,USB-C Hub,Electronics,23,1577.92,850.16,East,Singh Sales
+2024-02-08,Premium Pen,Stationery,21,702.78,296.91,East,Agarwal Mart
+2024-02-08,Bookshelf,Furniture,25,3700.64,2280.32,South,Malhotra Trading
+2024-02-09,Bookshelf,Furniture,21,3687.76,2212.86,South,Khanna Outlets
+2024-02-10,Running Shoes,Apparel,23,2532.33,1371.56,North,Agarwal Mart
+2024-02-10,Bookshelf,Furniture,17,3473.23,2263.22,North,Sharma Traders
+2024-02-10,Air Fryer,Home,21,5696.21,3452.46,South,Patel Mart
+2024-02-11,Notebook Set,Stationery,24,240.79,94.18,South,Gupta Enterprises
+2024-02-11,Bluetooth Speaker,Electronics,16,2229.47,1285.72,North,Gupta Enterprises
+2024-02-11,LED Desk Lamp,Home,28,1024.77,487.94,East,Patel Mart
+2024-02-12,Office Chair,Furniture,29,6708.77,4318.78,East,Patel Mart
+2024-02-12,Denim Jacket,Apparel,20,1745.45,954.57,South,Saxena Stores
+2024-02-13,Cotton T-Shirt,Apparel,18,484.97,220.51,South,Patel Mart
+2024-02-14,Cookware Set,Home,25,3524.27,2351.45,North,Mehta Retail
+2024-02-14,Office Chair,Furniture,15,6697.91,4487.03,East,Gupta Enterprises
+2024-02-15,Standing Desk,Furniture,19,11078.27,9165.77,West,Nair Retail Hub
+2024-02-15,Water Bottle,Home,15,359.43,138.64,East,Kapoor Goods
+2024-02-15,Cotton T-Shirt,Apparel,13,493.43,230.6,North,Joshi Wholesale
+2024-02-16,Cookware Set,Home,13,3955.85,2376.2,South,Joshi Wholesale
+2024-02-16,Notebook Set,Stationery,17,243.08,92.59,East,Reddy Distributors
+2024-02-17,Denim Jacket,Apparel,16,1791.99,923.75,North,Nair Commerce
+2024-02-18,Wireless Mouse,Electronics,10,831.79,483.53,North,Rao Merchandise
+2024-02-18,Running Shoes,Apparel,9,2629.66,1399.79,South,Nair Commerce
+2024-02-19,Denim Jacket,Apparel,18,1841.42,926.38,East,Kapoor Goods
+2024-02-19,LED Desk Lamp,Home,15,978.48,505.06,North,Iyer Supplies
+2024-02-19,Cotton T-Shirt,Apparel,6,491.29,219.94,West,Sharma Traders
+2024-02-20,Air Fryer,Home,12,4724.16,3387.86,Central,Rao Merchandise
+2024-02-20,LED Desk Lamp,Home,16,1040.59,503.52,Central,Sharma Traders
+2024-02-20,LED Desk Lamp,Home,10,897.8,484.67,West,Nair Commerce
+2024-02-21,Cotton T-Shirt,Apparel,11,491.47,229.96,South,Rao Merchandise
+2024-02-22,Cookware Set,Home,16,4199.21,2407.39,West,Agarwal Mart
+2024-02-22,Denim Jacket,Apparel,15,1569.37,924.13,Central,Das & Sons
+2024-02-22,Running Shoes,Apparel,15,2565.22,1364.19,East,Saxena Stores
+2024-02-23,Running Shoes,Apparel,12,2622.39,1412.9,South,Verma Stores
+2024-02-24,Notebook Set,Stationery,20,240.55,95,East,Agarwal Mart
+2024-02-24,USB-C Hub,Electronics,28,1527.17,872.33,South,Khanna Outlets
+2024-02-25,Cookware Set,Home,11,3875.9,2365.02,South,Khanna Outlets
+2024-02-26,Notebook Set,Stationery,15,237.34,95.05,Central,Khanna Outlets
+2024-02-26,Water Bottle,Home,12,335.98,141.71,North,Gupta Enterprises
+2024-02-26,Bluetooth Speaker,Electronics,11,2103.8,1331.28,East,Agarwal Mart
+2024-02-27,Cotton T-Shirt,Apparel,21,526.15,225.02,West,Mehta Retail
+2024-02-28,Denim Jacket,Apparel,19,1869.33,947.1,Central,Verma Stores
+2024-02-28,Cookware Set,Home,16,4200.86,2351.39,North,Kapoor Goods
+2024-02-28,Office Chair,Furniture,21,6833.44,4508.07,Central,Joshi Wholesale
+2024-02-29,Premium Pen,Stationery,14,710.74,299.89,East,Saxena Stores
+2024-02-29,Denim Jacket,Apparel,15,1781.99,939.31,West,Bose Retailers
+2024-02-29,Cotton T-Shirt,Apparel,14,483.28,228.88,South,Saxena Stores
+2024-03-01,Bookshelf,Furniture,27,3589.82,2232.29,Central,Mehta Retail
+2024-03-02,Bookshelf,Furniture,28,3297.32,2317.5,West,Nair Commerce
+2024-03-03,Air Fryer,Home,18,5409.71,3564.08,West,Iyer Supplies
+2024-03-03,LED Desk Lamp,Home,15,1010.05,507.33,East,Nair Commerce
+2024-03-03,Air Fryer,Home,22,5172.57,3417.9,Central,Nair Commerce
+2024-03-04,Running Shoes,Apparel,26,2601.97,1333.74,East,Kapoor Goods
+2024-03-05,Standing Desk,Furniture,32,11339.77,9083.96,West,Khanna Outlets
+2024-03-05,Cotton T-Shirt,Apparel,21,520.2,230.33,Central,Bose Retailers
+2024-03-05,Running Shoes,Apparel,9,2559.84,1410.01,Central,Reddy Distributors
+2024-03-06,LED Desk Lamp,Home,19,939.22,488.89,West,Reddy Distributors
+2024-03-06,USB-C Hub,Electronics,11,1546.7,878.12,West,Rao Merchandise
+2024-03-06,Running Shoes,Apparel,27,2458.14,1335.92,South,Bose Retailers
+2024-03-07,Cookware Set,Home,19,4026.44,2386.67,North,Khanna Outlets
+2024-03-08,Wireless Mouse,Electronics,11,814.89,499.03,West,Saxena Stores
+2024-03-08,Standing Desk,Furniture,16,12268.39,9298.02,South,Chopra Bazaar
+2024-03-08,USB-C Hub,Electronics,33,1475.93,856.54,North,Chopra Bazaar
+2024-03-09,Notebook Set,Stationery,13,253.18,93.01,North,Das & Sons
+2024-03-10,USB-C Hub,Electronics,23,1458.08,878.11,Central,Sharma Traders
+2024-03-10,Wireless Mouse,Electronics,33,748.28,498.51,East,Khanna Outlets
+2024-03-11,Cookware Set,Home,11,4144.38,2409.07,West,Nair Retail Hub
+2024-03-11,Bookshelf,Furniture,11,3566.57,2211.27,South,Sharma Traders
+2024-03-11,Wireless Mouse,Electronics,16,793.78,503.12,North,Rao Merchandise
+2024-03-12,Cookware Set,Home,25,4187.91,2430.83,West,Malhotra Trading
+2024-03-12,LED Desk Lamp,Home,20,943.39,505.47,West,Verma Stores
+2024-03-13,USB-C Hub,Electronics,14,1469.53,888.21,Central,Patel Mart
+2024-03-13,LED Desk Lamp,Home,12,1020.35,492.33,West,Malhotra Trading
+2024-03-13,Air Fryer,Home,13,5792.57,3449.04,Central,Rao Merchandise
+2024-03-14,LED Desk Lamp,Home,21,882.35,505.93,South,Saxena Stores
+2024-03-14,Water Bottle,Home,13,360.42,142.92,West,Patel Mart
+2024-03-15,Denim Jacket,Apparel,9,1861.69,947.07,Central,Iyer Supplies
+2024-03-15,Running Shoes,Apparel,27,2564.18,1355.63,South,Rao Merchandise
+2024-03-16,Wireless Mouse,Electronics,33,802.97,489.15,East,Saxena Stores
+2024-03-17,Standing Desk,Furniture,29,13129.02,9604.35,North,Nair Commerce
+2024-03-17,Denim Jacket,Apparel,10,1832,957.27,North,Das & Sons
+2024-03-17,Water Bottle,Home,12,317.92,141.11,North,Gupta Enterprises
+2024-03-18,Cookware Set,Home,17,4218.23,2383.42,Central,Iyer Supplies
+2024-03-19,USB-C Hub,Electronics,18,1463,877.82,Central,Nair Commerce
+2024-03-19,USB-C Hub,Electronics,12,1535.55,862.82,East,Sharma Traders
+2024-03-20,Standing Desk,Furniture,29,12804.06,9446.44,Central,Verma Stores
+2024-03-20,Water Bottle,Home,16,364.58,135.86,West,Rao Merchandise
+2024-03-20,Air Fryer,Home,25,5198.47,3421.78,South,Chopra Bazaar
+2024-03-21,Bookshelf,Furniture,19,3499.83,2219.33,East,Bose Retailers
+2024-03-21,Bluetooth Speaker,Electronics,23,2090.9,1294.03,East,Iyer Supplies
+2024-03-22,Bookshelf,Furniture,23,3464.75,2300.97,South,Agarwal Mart
+2024-03-22,Running Shoes,Apparel,21,2536.22,1353.18,North,Reddy Distributors
+2024-03-23,Air Fryer,Home,36,4919.01,3480.27,Central,Saxena Stores
+2024-03-23,Premium Pen,Stationery,24,733.28,298.41,East,Joshi Wholesale
+2024-03-24,Cotton T-Shirt,Apparel,20,461.27,226.19,East,Singh Sales
+2024-03-24,Water Bottle,Home,31,346.39,142.73,West,Sharma Traders
+2024-03-25,Water Bottle,Home,30,313.86,137.55,North,Das & Sons
+2024-03-25,Standing Desk,Furniture,10,13710.41,9543.52,South,Gupta Enterprises
+2024-03-26,Premium Pen,Stationery,24,683.8,299.25,North,Bose Retailers
+2024-03-26,Notebook Set,Stationery,18,235.2,93.52,Central,Patel Mart
+2024-03-27,Wireless Mouse,Electronics,27,827.44,497.78,South,Gupta Enterprises
+2024-03-28,Cotton T-Shirt,Apparel,17,495.68,230.13,Central,Kapoor Goods
+2024-03-28,Standing Desk,Furniture,26,12922.11,9177.11,North,Chopra Bazaar
+2024-03-28,Bookshelf,Furniture,16,3634.14,2334.77,South,Bose Retailers
+2024-03-29,USB-C Hub,Electronics,31,1468.77,884.51,West,Singh Sales
+2024-03-29,Bluetooth Speaker,Electronics,15,2085.65,1340.57,East,Das & Sons
+2024-03-29,Bluetooth Speaker,Electronics,14,2215.71,1332.54,North,Reddy Distributors
+2024-03-30,Wireless Mouse,Electronics,32,825.72,499.4,North,Saxena Stores
+2024-03-31,Notebook Set,Stationery,10,263.83,92.88,East,Chopra Bazaar
+2024-03-31,Notebook Set,Stationery,11,255.02,96.04,North,Malhotra Trading
+2024-04-01,Bookshelf,Furniture,18,3541.31,2248.01,West,Joshi Wholesale
+2024-04-01,Bookshelf,Furniture,8,3643.47,2254.44,South,Agarwal Mart
+2024-04-02,Water Bottle,Home,37,337.31,139.42,North,Agarwal Mart
+2024-04-03,Bluetooth Speaker,Electronics,22,1975.12,1280.08,East,Khanna Outlets
+2024-04-04,Denim Jacket,Apparel,17,1714.28,910.28,South,Khanna Outlets
+2024-04-05,Bluetooth Speaker,Electronics,27,2216.05,1324.89,South,Nair Retail Hub
+2024-04-06,Cookware Set,Home,16,3793.89,2332.7,North,Chopra Bazaar
+2024-04-07,Notebook Set,Stationery,29,250.66,93,Central,Rao Merchandise
+2024-04-08,Premium Pen,Stationery,18,686.61,294.99,North,Verma Stores
+2024-04-08,Cotton T-Shirt,Apparel,29,508.49,221.7,Central,Das & Sons
+2024-04-08,Air Fryer,Home,29,5180.27,3462.98,West,Iyer Supplies
+2024-04-09,Standing Desk,Furniture,35,12309.21,9514.59,East,Chopra Bazaar
+2024-04-09,Bookshelf,Furniture,18,3483.11,2266.2,Central,Agarwal Mart
+2024-04-10,LED Desk Lamp,Home,23,982.07,485.21,West,Joshi Wholesale
+2024-04-11,Water Bottle,Home,31,342.51,137.14,East,Joshi Wholesale
+2024-04-11,Denim Jacket,Apparel,8,1568.39,948.9,Central,Bose Retailers
+2024-04-12,Premium Pen,Stationery,19,695.33,285.22,West,Verma Stores
+2024-04-13,Air Fryer,Home,25,5445.95,3419.09,East,Khanna Outlets
+2024-04-13,Cookware Set,Home,10,4200.04,2461.87,South,Verma Stores
+2024-04-14,Bluetooth Speaker,Electronics,14,2214.43,1320.48,North,Nair Commerce
+2024-04-14,Standing Desk,Furniture,24,13369.97,9239.56,North,Verma Stores
+2024-04-15,Bluetooth Speaker,Electronics,25,2219.54,1329.13,Central,Kapoor Goods
+2024-04-15,Notebook Set,Stationery,20,245.87,94.56,South,Iyer Supplies
+2024-04-16,USB-C Hub,Electronics,19,1531.59,885.36,West,Das & Sons
+2024-04-16,Premium Pen,Stationery,22,734.72,292.77,North,Mehta Retail
+2024-04-16,Wireless Mouse,Electronics,16,803.29,504.08,North,Iyer Supplies
+2024-04-17,Bookshelf,Furniture,30,3698.91,2207.44,East,Das & Sons
+2024-04-17,Water Bottle,Home,21,311.92,142.49,East,Mehta Retail
+2024-04-18,Bluetooth Speaker,Electronics,11,2084.15,1358.8,Central,Joshi Wholesale
+2024-04-19,Bluetooth Speaker,Electronics,14,2143.98,1316.18,Central,Saxena Stores
+2024-04-19,LED Desk Lamp,Home,29,949.12,492.91,West,Mehta Retail
+2024-04-19,Running Shoes,Apparel,19,2501.43,1352.45,West,Rao Merchandise
+2024-04-20,Office Chair,Furniture,10,6773.86,4357.72,South,Joshi Wholesale
+2024-04-20,Wireless Mouse,Electronics,36,760.82,481.17,North,Mehta Retail
+2024-04-20,Notebook Set,Stationery,38,229.6,96.83,West,Gupta Enterprises
+2024-04-21,Bluetooth Speaker,Electronics,25,2312.44,1303.87,South,Verma Stores
+2024-04-21,Water Bottle,Home,33,332.51,139.42,North,Verma Stores
+2024-04-21,Water Bottle,Home,42,331.18,140.35,Central,Nair Commerce
+2024-04-22,Denim Jacket,Apparel,14,1748.68,942.15,East,Rao Merchandise
+2024-04-22,Wireless Mouse,Electronics,23,778.06,489.92,South,Agarwal Mart
+2024-04-23,USB-C Hub,Electronics,10,1527.61,889.59,East,Rao Merchandise
+2024-04-24,Bookshelf,Furniture,23,3658.53,2210.62,West,Verma Stores
+2024-04-24,Running Shoes,Apparel,13,2437.99,1353.42,North,Verma Stores
+2024-04-24,LED Desk Lamp,Home,8,1000.95,489.1,Central,Bose Retailers
+2024-04-25,Cookware Set,Home,14,3591.98,2396.94,West,Das & Sons
+2024-04-26,Air Fryer,Home,20,5442.75,3497.61,East,Reddy Distributors
+2024-04-26,Notebook Set,Stationery,18,253.78,95.37,North,Bose Retailers
+2024-04-26,Running Shoes,Apparel,12,2331.45,1352.44,East,Bose Retailers
+2024-04-27,Running Shoes,Apparel,23,2530.43,1407.64,East,Kapoor Goods
+2024-04-28,Running Shoes,Apparel,18,2514.83,1396.55,North,Bose Retailers
+2024-04-28,Running Shoes,Apparel,37,2617.46,1336.13,West,Bose Retailers
+2024-04-29,Bookshelf,Furniture,20,3592.79,2304.49,West,Saxena Stores
+2024-04-30,Standing Desk,Furniture,13,12730.28,9523.87,North,Sharma Traders
+2024-05-01,Cotton T-Shirt,Apparel,38,488,221.99,East,Verma Stores
+2024-05-02,Premium Pen,Stationery,13,708.96,301.64,East,Nair Retail Hub
+2024-05-03,Office Chair,Furniture,24,6312.87,4395.03,East,Gupta Enterprises
+2024-05-04,Notebook Set,Stationery,12,259.69,96.79,South,Nair Commerce
+2024-05-04,Running Shoes,Apparel,32,2462.04,1387.13,South,Das & Sons
+2024-05-04,Running Shoes,Apparel,25,2327.13,1380.24,Central,Reddy Distributors
+2024-05-05,Cookware Set,Home,11,3992.6,2337.86,South,Agarwal Mart
+2024-05-05,Running Shoes,Apparel,48,2529,1365.88,Central,Kapoor Goods
+2024-05-05,Cotton T-Shirt,Apparel,46,487.26,219.63,Central,Reddy Distributors
+2024-05-06,Running Shoes,Apparel,25,2519.37,1360.65,South,Joshi Wholesale
+2024-05-06,Standing Desk,Furniture,17,13770.51,9472.65,South,Singh Sales
+2024-05-07,LED Desk Lamp,Home,17,947.64,507.11,West,Malhotra Trading
+2024-05-08,Notebook Set,Stationery,22,262.67,95.12,Central,Khanna Outlets
+2024-05-08,Denim Jacket,Apparel,14,1808.95,960.57,Central,Nair Retail Hub
+2024-05-08,Office Chair,Furniture,31,6620.28,4435.93,Central,Gupta Enterprises
+2024-05-09,Office Chair,Furniture,31,6432.92,4389.01,West,Mehta Retail
+2024-05-09,Water Bottle,Home,36,345.58,143.53,Central,Gupta Enterprises
+2024-05-10,Standing Desk,Furniture,24,12350.56,9437.71,North,Verma Stores
+2024-05-10,Premium Pen,Stationery,27,630.36,301.1,East,Patel Mart
+2024-05-11,USB-C Hub,Electronics,25,1465.57,852.88,West,Agarwal Mart
+2024-05-12,Running Shoes,Apparel,13,2618.36,1394.57,West,Bose Retailers
+2024-05-12,Office Chair,Furniture,29,6665.82,4461.19,South,Patel Mart
+2024-05-12,Denim Jacket,Apparel,9,1815.93,940.78,West,Rao Merchandise
+2024-05-13,Notebook Set,Stationery,26,251.2,94.88,South,Kapoor Goods
+2024-05-14,Water Bottle,Home,29,316.21,136.82,East,Saxena Stores
+2024-05-15,Cookware Set,Home,29,3743.83,2372.21,Central,Reddy Distributors
+2024-05-15,Running Shoes,Apparel,42,2370.85,1380.85,West,Chopra Bazaar
+2024-05-15,Denim Jacket,Apparel,25,1865.03,952.2,Central,Joshi Wholesale
+2024-05-16,Air Fryer,Home,24,5508.67,3561.42,West,Mehta Retail
+2024-05-16,Running Shoes,Apparel,20,2457.22,1360.88,South,Khanna Outlets
+2024-05-17,Bookshelf,Furniture,24,3663.42,2228.63,North,Patel Mart
+2024-05-17,Cookware Set,Home,25,4227.17,2370.61,Central,Sharma Traders
+2024-05-18,Standing Desk,Furniture,38,12521.75,9239.82,Central,Chopra Bazaar
+2024-05-18,Wireless Mouse,Electronics,26,831.61,491.81,Central,Patel Mart
+2024-05-18,Premium Pen,Stationery,9,667.31,286,South,Nair Commerce
+2024-05-19,Bluetooth Speaker,Electronics,39,2154.33,1343.08,North,Khanna Outlets
+2024-05-19,Standing Desk,Furniture,32,12898.21,9561.84,East,Patel Mart
+2024-05-20,USB-C Hub,Electronics,36,1529.6,843.86,West,Iyer Supplies
+2024-05-21,Bluetooth Speaker,Electronics,12,2147.06,1311.03,Central,Malhotra Trading
+2024-05-21,Bookshelf,Furniture,9,3331.86,2300.58,Central,Kapoor Goods
+2024-05-22,Water Bottle,Home,37,354.06,142.42,West,Patel Mart
+2024-05-22,USB-C Hub,Electronics,29,1530.22,869.98,South,Nair Retail Hub
+2024-05-23,USB-C Hub,Electronics,19,1555.21,884.09,East,Iyer Supplies
+2024-05-23,Standing Desk,Furniture,32,12633.74,9614.17,South,Verma Stores
+2024-05-23,Bluetooth Speaker,Electronics,26,2267.66,1302.26,West,Patel Mart
+2024-05-24,Denim Jacket,Apparel,10,1887.43,949.81,West,Kapoor Goods
+2024-05-24,Denim Jacket,Apparel,26,1770.42,931.35,North,Malhotra Trading
+2024-05-25,LED Desk Lamp,Home,19,1034.4,487.19,West,Rao Merchandise
+2024-05-25,Bookshelf,Furniture,28,3479.15,2216.13,East,Patel Mart
+2024-05-25,Cotton T-Shirt,Apparel,26,501.95,218.61,North,Joshi Wholesale
+2024-05-26,Premium Pen,Stationery,14,674.75,290.49,North,Patel Mart
+2024-05-26,Premium Pen,Stationery,17,705.69,290.5,South,Rao Merchandise
+2024-05-26,Standing Desk,Furniture,22,13266.75,9335.41,West,Iyer Supplies
+2024-05-27,Bookshelf,Furniture,19,3339.68,2253.45,East,Nair Commerce
+2024-05-27,Notebook Set,Stationery,26,244.38,92.13,Central,Kapoor Goods
+2024-05-28,Bluetooth Speaker,Electronics,28,2203.47,1310.45,South,Kapoor Goods
+2024-05-28,Office Chair,Furniture,16,6207,4420.52,Central,Khanna Outlets
+2024-05-28,Cotton T-Shirt,Apparel,27,454.38,229.44,South,Verma Stores
+2024-05-29,Notebook Set,Stationery,23,236.5,95.41,North,Joshi Wholesale
+2024-05-30,Bluetooth Speaker,Electronics,11,2179.48,1337.75,East,Chopra Bazaar
+2024-05-30,Notebook Set,Stationery,14,242.88,95.18,West,Bose Retailers
+2024-05-30,Standing Desk,Furniture,33,13162.81,9620.17,West,Joshi Wholesale
+2024-05-31,Cotton T-Shirt,Apparel,26,488.76,222,South,Rao Merchandise
+2024-05-31,Cotton T-Shirt,Apparel,14,510.58,225.24,West,Verma Stores
+2024-05-31,Running Shoes,Apparel,18,2229.24,1344.86,South,Kapoor Goods
+2024-06-01,Premium Pen,Stationery,13,674.35,289.54,South,Das & Sons
+2024-06-01,Bluetooth Speaker,Electronics,43,2040.81,1283.28,North,Chopra Bazaar
+2024-06-01,Cookware Set,Home,11,3954.39,2376.93,South,Saxena Stores
+2024-06-02,Standing Desk,Furniture,28,12380.28,9571.87,East,Kapoor Goods
+2024-06-03,Denim Jacket,Apparel,57,1674.95,923.78,East,Kapoor Goods
+2024-06-04,Standing Desk,Furniture,25,13293.24,9097.56,West,Das & Sons
+2024-06-05,Bluetooth Speaker,Electronics,33,2078.92,1357.59,Central,Das & Sons
+2024-06-06,Running Shoes,Apparel,19,2583.15,1359.69,North,Reddy Distributors
+2024-06-06,Cotton T-Shirt,Apparel,32,495.04,223.69,Central,Singh Sales
+2024-06-06,Bookshelf,Furniture,29,3588.97,2231.95,South,Gupta Enterprises
+2024-06-07,LED Desk Lamp,Home,23,950.51,500.94,West,Patel Mart
+2024-06-08,Notebook Set,Stationery,48,236.15,95.31,North,Khanna Outlets
+2024-06-09,Premium Pen,Stationery,15,715.74,289.1,North,Khanna Outlets
+2024-06-09,Cookware Set,Home,15,4137.56,2431.61,East,Nair Retail Hub
+2024-06-10,Notebook Set,Stationery,19,250.6,94.26,West,Malhotra Trading
+2024-06-10,USB-C Hub,Electronics,18,1426.09,858.25,East,Mehta Retail
+2024-06-10,Notebook Set,Stationery,14,255.83,92.01,North,Khanna Outlets
+2024-06-11,Premium Pen,Stationery,9,723.87,285.52,West,Reddy Distributors
+2024-06-12,Cookware Set,Home,22,3415.38,2370.39,South,Sharma Traders
+2024-06-12,Running Shoes,Apparel,38,2525.17,1352.11,North,Sharma Traders
+2024-06-12,Bluetooth Speaker,Electronics,15,2287.61,1300.03,West,Nair Commerce
+2024-06-13,Running Shoes,Apparel,30,2421.73,1369.4,South,Agarwal Mart
+2024-06-14,Running Shoes,Apparel,39,2442.33,1387.29,Central,Nair Commerce
+2024-06-15,Air Fryer,Home,37,5787.64,3376.46,East,Verma Stores
+2024-06-15,Cotton T-Shirt,Apparel,18,470.54,220.33,North,Reddy Distributors
+2024-06-15,Bookshelf,Furniture,175,3364.49,2208.29,Central,Verma Stores
+2024-06-16,Air Fryer,Home,12,5641.9,3469.79,North,Chopra Bazaar
+2024-06-16,Bookshelf,Furniture,34,3419.78,2247.68,Central,Nair Commerce
+2024-06-17,Notebook Set,Stationery,22,245.3,94.38,East,Nair Retail Hub
+2024-06-17,Wireless Mouse,Electronics,30,795.06,506.58,East,Rao Merchandise
+2024-06-17,Cookware Set,Home,11,3856.88,2344.35,South,Malhotra Trading
+2024-06-18,Bluetooth Speaker,Electronics,27,2158.27,1342.52,West,Iyer Supplies
+2024-06-18,Premium Pen,Stationery,15,661.32,300.91,East,Saxena Stores
+2024-06-19,Water Bottle,Home,15,314.49,142.61,South,Saxena Stores
+2024-06-19,Cotton T-Shirt,Apparel,20,473.93,227.38,North,Gupta Enterprises
+2024-06-19,Standing Desk,Furniture,19,12835.95,9258.05,West,Reddy Distributors
+2024-06-20,LED Desk Lamp,Home,26,946.48,487.05,South,Chopra Bazaar
+2024-06-21,Office Chair,Furniture,25,6387.68,4464.83,South,Sharma Traders
+2024-06-21,Water Bottle,Home,22,339.95,141.95,West,Nair Commerce
+2024-06-21,Bluetooth Speaker,Electronics,24,2253.09,1298.41,East,Iyer Supplies
+2024-06-22,Bluetooth Speaker,Electronics,35,2277.61,1320.12,East,Verma Stores
+2024-06-22,Bluetooth Speaker,Electronics,17,2229.95,1351.26,South,Saxena Stores
+2024-06-23,Running Shoes,Apparel,18,2457.81,1414.61,Central,Kapoor Goods
+2024-06-23,LED Desk Lamp,Home,30,987.61,497.06,East,Sharma Traders
+2024-06-23,Denim Jacket,Apparel,8,1742.4,916.93,West,Patel Mart
+2024-06-24,Cotton T-Shirt,Apparel,17,519.96,217.89,South,Verma Stores
+2024-06-24,Bookshelf,Furniture,25,3501.18,2216.89,West,Mehta Retail
+2024-06-24,USB-C Hub,Electronics,15,1478.51,871.71,East,Reddy Distributors
+2024-06-25,Office Chair,Furniture,28,6783.69,4351.54,Central,Singh Sales
+2024-06-25,Standing Desk,Furniture,21,11100.76,9515.16,West,Reddy Distributors
+2024-06-25,Office Chair,Furniture,29,6769.96,4365.69,North,Reddy Distributors
+2024-06-26,Bluetooth Speaker,Electronics,30,2188.23,1333.4,West,Khanna Outlets
+2024-06-26,Office Chair,Furniture,32,6838.26,4386.57,Central,Malhotra Trading
+2024-06-26,Notebook Set,Stationery,8,249.5,96.11,Central,Verma Stores
+2024-06-27,Premium Pen,Stationery,16,660.27,288.31,South,Nair Commerce
+2024-06-28,Running Shoes,Apparel,30,2505.94,1410.16,West,Saxena Stores
+2024-06-28,USB-C Hub,Electronics,17,1460.76,844.38,South,Nair Retail Hub
+2024-06-28,Running Shoes,Apparel,19,2632.32,1368.48,South,Reddy Distributors
+2024-06-29,USB-C Hub,Electronics,19,1536.51,843.6,North,Joshi Wholesale
+2024-06-29,Water Bottle,Home,43,338.02,135.66,West,Patel Mart
+2024-06-30,USB-C Hub,Electronics,30,1454.33,889.9,Central,Khanna Outlets
+2024-06-30,Denim Jacket,Apparel,13,1698.76,914.3,South,Gupta Enterprises
+2024-06-30,Bookshelf,Furniture,31,3477.26,2243.27,West,Joshi Wholesale
+2024-07-01,Office Chair,Furniture,23,6354.84,4406.34,Central,Rao Merchandise
+2024-07-02,Notebook Set,Stationery,6,236.73,95.71,North,Iyer Supplies
+2024-07-03,LED Desk Lamp,Home,17,1050.9,485.64,South,Verma Stores
+2024-07-03,LED Desk Lamp,Home,15,983.41,485.28,North,Chopra Bazaar
+2024-07-04,LED Desk Lamp,Home,24,950.11,507.44,North,Verma Stores
+2024-07-04,Bluetooth Speaker,Electronics,23,2320.7,1330.13,South,Das & Sons
+2024-07-04,Bookshelf,Furniture,13,3379.23,2317.46,South,Rao Merchandise
+2024-07-05,Notebook Set,Stationery,8,260.02,94.7,West,Malhotra Trading
+2024-07-05,USB-C Hub,Electronics,35,1330.99,868.44,West,Malhotra Trading
+2024-07-06,Bookshelf,Furniture,20,3565.79,2248.85,East,Mehta Retail
+2024-07-07,Air Fryer,Home,15,5816.64,3366.3,East,Singh Sales
+2024-07-08,Bluetooth Speaker,Electronics,13,1885.53,1325.2,South,Sharma Traders
+2024-07-08,Wireless Mouse,Electronics,28,827.63,506.11,North,Singh Sales
+2024-07-09,Bookshelf,Furniture,15,3677.91,2215.95,Central,Gupta Enterprises
+2024-07-10,Office Chair,Furniture,10,6274.64,4513.03,West,Iyer Supplies
+2024-07-10,Notebook Set,Stationery,12,236.78,93.17,East,Gupta Enterprises
+2024-07-11,USB-C Hub,Electronics,20,1574.87,881.29,West,Chopra Bazaar
+2024-07-11,Notebook Set,Stationery,85,240,94.22,West,Nair Commerce
+2024-07-12,USB-C Hub,Electronics,11,1471.61,853.7,East,Patel Mart
+2024-07-12,Wireless Mouse,Electronics,19,816.65,495.57,West,Bose Retailers
+2024-07-12,Cotton T-Shirt,Apparel,42,517.89,228.38,East,Mehta Retail
+2024-07-13,Office Chair,Furniture,27,6433.79,4478.8,West,Nair Retail Hub
+2024-07-13,USB-C Hub,Electronics,16,1562.7,862.57,Central,Malhotra Trading
+2024-07-13,Denim Jacket,Apparel,24,1882.46,910.22,South,Reddy Distributors
+2024-07-14,Cotton T-Shirt,Apparel,23,518.44,217.89,North,Joshi Wholesale
+2024-07-15,Cookware Set,Home,20,3659.02,2399.19,Central,Gupta Enterprises
+2024-07-15,Premium Pen,Stationery,12,673.32,286.62,East,Das & Sons
+2024-07-16,USB-C Hub,Electronics,12,1307.79,871.88,West,Malhotra Trading
+2024-07-16,Wireless Mouse,Electronics,12,820.08,502.3,West,Mehta Retail
+2024-07-16,Wireless Mouse,Electronics,23,710.3,503.81,Central,Saxena Stores
+2024-07-17,Water Bottle,Home,39,335.17,140.32,Central,Reddy Distributors
+2024-07-17,Running Shoes,Apparel,43,2599.34,1371.17,Central,Rao Merchandise
+2024-07-17,USB-C Hub,Electronics,31,1584.25,892.22,Central,Das & Sons
+2024-07-18,Office Chair,Furniture,15,6306.71,4343.69,East,Rao Merchandise
+2024-07-19,LED Desk Lamp,Home,9,993.65,493.54,Central,Chopra Bazaar
+2024-07-19,Cookware Set,Home,14,3488.42,2347.58,West,Nair Retail Hub
+2024-07-19,Bluetooth Speaker,Electronics,22,2247.32,1295.23,East,Joshi Wholesale
+2024-07-20,Water Bottle,Home,34,301.6,141.37,North,Verma Stores
+2024-07-20,Standing Desk,Furniture,32,11380.25,9350.62,North,Sharma Traders
+2024-07-20,Office Chair,Furniture,11,6128.51,4322.36,East,Sharma Traders
+2024-07-21,Denim Jacket,Apparel,8,1772.1,944.98,South,Joshi Wholesale
+2024-07-21,Standing Desk,Furniture,10,13673.52,9539.52,North,Sharma Traders
+2024-07-22,LED Desk Lamp,Home,15,974.58,488.54,North,Singh Sales
+2024-07-23,Notebook Set,Stationery,11,216.74,93.62,West,Khanna Outlets
+2024-07-23,Denim Jacket,Apparel,17,1743.97,916.31,Central,Sharma Traders
+2024-07-23,Cotton T-Shirt,Apparel,20,511.65,224.3,Central,Rao Merchandise
+2024-07-24,Bookshelf,Furniture,21,3465.41,2317.21,Central,Das & Sons
+2024-07-24,Wireless Mouse,Electronics,11,818.47,495.58,North,Agarwal Mart
+2024-07-24,Premium Pen,Stationery,22,737.28,287.11,South,Agarwal Mart
+2024-07-25,Cookware Set,Home,29,3859.87,2375.61,West,Singh Sales
+2024-07-25,Cotton T-Shirt,Apparel,18,483.43,226.47,West,Iyer Supplies
+2024-07-25,Premium Pen,Stationery,19,614.92,292.1,East,Chopra Bazaar
+2024-07-26,Cookware Set,Home,17,4174.64,2437.45,East,Verma Stores
+2024-07-27,Bluetooth Speaker,Electronics,37,2309.63,1332.81,North,Patel Mart
+2024-07-27,Office Chair,Furniture,22,6415.04,4326.98,East,Khanna Outlets
+2024-07-28,Cotton T-Shirt,Apparel,42,481.55,226.11,North,Singh Sales
+2024-07-28,USB-C Hub,Electronics,21,1460.12,884.88,East,Saxena Stores
+2024-07-28,Cookware Set,Home,22,4157.21,2366.47,East,Bose Retailers
+2024-07-29,Standing Desk,Furniture,24,12377.78,9234.17,Central,Sharma Traders
+2024-07-29,Denim Jacket,Apparel,11,1738.32,941.77,West,Gupta Enterprises
+2024-07-29,Standing Desk,Furniture,20,12280.38,9177.68,North,Malhotra Trading
+2024-07-30,Cookware Set,Home,11,4126.67,2443.34,Central,Das & Sons
+2024-07-30,Bluetooth Speaker,Electronics,22,2319.2,1287.7,South,Verma Stores
+2024-07-31,Wireless Mouse,Electronics,21,793.33,482.25,East,Kapoor Goods
+2024-07-31,LED Desk Lamp,Home,15,1054.05,491.53,Central,Sharma Traders
+2024-07-31,Denim Jacket,Apparel,18,1802.64,916.18,North,Malhotra Trading
+2024-08-01,Standing Desk,Furniture,20,12239.12,9575.25,East,Malhotra Trading
+2024-08-01,USB-C Hub,Electronics,96,1475.58,854.64,Central,Bose Retailers
+2024-08-02,Bookshelf,Furniture,24,3319.57,2324.51,East,Kapoor Goods
+2024-08-02,Water Bottle,Home,41,317.98,137.03,North,Khanna Outlets
+2024-08-02,Running Shoes,Apparel,17,2393.79,1384.53,East,Nair Retail Hub
+2024-08-03,Office Chair,Furniture,30,6223.72,4434.91,West,Bose Retailers
+2024-08-03,Water Bottle,Home,43,296.39,143.32,Central,Sharma Traders
+2024-08-03,LED Desk Lamp,Home,23,971.99,502.22,Central,Reddy Distributors
+2024-08-04,Denim Jacket,Apparel,28,1795.55,959.31,North,Gupta Enterprises
+2024-08-05,Water Bottle,Home,43,331.94,137.37,North,Rao Merchandise
+2024-08-06,Water Bottle,Home,40,353.48,141.89,South,Saxena Stores
+2024-08-06,Premium Pen,Stationery,10,706.9,291.33,North,Rao Merchandise
+2024-08-06,Office Chair,Furniture,11,6321.59,4486.54,West,Malhotra Trading
+2024-08-07,Premium Pen,Stationery,22,706.4,287.74,North,Iyer Supplies
+2024-08-07,Premium Pen,Stationery,16,735.57,300.79,West,Singh Sales
+2024-08-08,Denim Jacket,Apparel,16,1864.69,930.34,Central,Reddy Distributors
+2024-08-08,Cookware Set,Home,11,4201.81,2421.9,North,Singh Sales
+2024-08-08,LED Desk Lamp,Home,21,974.48,506.5,Central,Verma Stores
+2024-08-09,USB-C Hub,Electronics,87,1582.45,866.7,West,Agarwal Mart
+2024-08-10,Denim Jacket,Apparel,9,1795.53,954.64,North,Verma Stores
+2024-08-10,Bookshelf,Furniture,30,3438.62,2272.66,South,Bose Retailers
+2024-08-11,LED Desk Lamp,Home,10,1039.78,486.19,West,Mehta Retail
+2024-08-12,Bluetooth Speaker,Electronics,12,2119.36,1310.02,North,Khanna Outlets
+2024-08-13,USB-C Hub,Electronics,25,1449.07,868.05,West,Das & Sons
+2024-08-13,Wireless Mouse,Electronics,19,773.29,500.46,North,Chopra Bazaar
+2024-08-13,Standing Desk,Furniture,28,13412.67,9255.04,East,Malhotra Trading
+2024-08-14,USB-C Hub,Electronics,13,1484.24,877.7,Central,Agarwal Mart
+2024-08-15,Office Chair,Furniture,22,6214.76,4406.2,West,Joshi Wholesale
+2024-08-15,Water Bottle,Home,18,335.99,140.58,West,Joshi Wholesale
+2024-08-15,Standing Desk,Furniture,16,11868.11,9090.24,West,Bose Retailers
+2024-08-16,Notebook Set,Stationery,8,255.42,92.29,Central,Bose Retailers
+2024-08-17,Bluetooth Speaker,Electronics,28,2209.89,1332.71,South,Nair Retail Hub
+2024-08-17,Bluetooth Speaker,Electronics,44,2196,1314.54,North,Patel Mart
+2024-08-17,Bookshelf,Furniture,12,3331.35,2207.4,Central,Sharma Traders
+2024-08-18,Bluetooth Speaker,Electronics,22,2267.86,1288.14,East,Agarwal Mart
+2024-08-18,Water Bottle,Home,22,341.17,138.71,East,Agarwal Mart
+2024-08-19,Air Fryer,Home,24,5562.59,3501.12,East,Reddy Distributors
+2024-08-19,Cookware Set,Home,11,3826.13,2427.84,Central,Joshi Wholesale
+2024-08-19,Standing Desk,Furniture,26,12984.38,9638.54,East,Sharma Traders
+2024-08-20,Notebook Set,Stationery,17,251.51,92.84,East,Rao Merchandise
+2024-08-21,Wireless Mouse,Electronics,30,707.48,494.52,East,Patel Mart
+2024-08-22,Office Chair,Furniture,8,6427.12,4459.46,West,Agarwal Mart
+2024-08-23,Cotton T-Shirt,Apparel,34,506.7,218.49,Central,Chopra Bazaar
+2024-08-23,Office Chair,Furniture,8,6421.06,4520.53,West,Saxena Stores
+2024-08-23,Cookware Set,Home,17,4011.28,2394.42,Central,Sharma Traders
+2024-08-24,Air Fryer,Home,25,5486.58,3376.75,Central,Chopra Bazaar
+2024-08-25,Notebook Set,Stationery,8,262.02,94.77,East,Khanna Outlets
+2024-08-26,Bookshelf,Furniture,26,3565.76,2300.41,West,Khanna Outlets
+2024-08-26,Bluetooth Speaker,Electronics,34,2222.95,1285.19,Central,Joshi Wholesale
+2024-08-27,Cookware Set,Home,16,3989.99,2379.28,Central,Bose Retailers
+2024-08-28,Cotton T-Shirt,Apparel,15,527.53,222.48,East,Singh Sales
+2024-08-28,Water Bottle,Home,25,365.84,137.56,East,Gupta Enterprises
+2024-08-29,Office Chair,Furniture,8,6137.58,4356.85,West,Nair Commerce
+2024-08-30,LED Desk Lamp,Home,24,993.3,500.94,South,Gupta Enterprises
+2024-08-30,Bookshelf,Furniture,14,3504.79,2276.8,Central,Iyer Supplies
+2024-08-30,USB-C Hub,Electronics,22,1480,885.11,Central,Saxena Stores
+2024-08-31,Bookshelf,Furniture,18,3693.64,2235.9,North,Kapoor Goods
+2024-08-31,Cotton T-Shirt,Apparel,41,512.56,219.86,West,Bose Retailers
+2024-09-01,Wireless Mouse,Electronics,30,760.02,498.71,East,Khanna Outlets
+2024-09-02,Bluetooth Speaker,Electronics,18,2248.15,1333.77,East,Joshi Wholesale
+2024-09-03,Bookshelf,Furniture,25,3644.03,2274.64,South,Bose Retailers
+2024-09-04,Notebook Set,Stationery,30,234.43,95.89,East,Bose Retailers
+2024-09-05,Cotton T-Shirt,Apparel,25,476.3,230.78,West,Iyer Supplies
+2024-09-05,Office Chair,Furniture,31,6562.47,4418.63,Central,Reddy Distributors
+2024-09-06,Notebook Set,Stationery,38,249.09,92.39,West,Singh Sales
+2024-09-06,Bluetooth Speaker,Electronics,25,2081.27,1307.03,East,Saxena Stores
+2024-09-07,Running Shoes,Apparel,24,2432.67,1367.52,West,Singh Sales
+2024-09-07,Air Fryer,Home,29,5801.89,3565.52,Central,Agarwal Mart
+2024-09-08,Air Fryer,Home,36,5315.91,3431.62,East,Patel Mart
+2024-09-08,Cookware Set,Home,25,4172.34,2424.49,West,Reddy Distributors
+2024-09-09,Denim Jacket,Apparel,10,1802.86,939.84,South,Das & Sons
+2024-09-09,Bookshelf,Furniture,27,3514.42,2238.03,North,Rao Merchandise
+2024-09-10,Running Shoes,Apparel,29,2522.17,1372.82,Central,Patel Mart
+2024-09-11,Bookshelf,Furniture,19,3599.72,2276.96,West,Kapoor Goods
+2024-09-11,USB-C Hub,Electronics,14,1540.1,871.12,South,Gupta Enterprises
+2024-09-12,Air Fryer,Home,20,5463.86,3514.74,North,Nair Retail Hub
+2024-09-13,Water Bottle,Home,37,332.98,140.17,West,Reddy Distributors
+2024-09-13,Bookshelf,Furniture,29,3447.85,2242.49,North,Nair Retail Hub
+2024-09-13,Office Chair,Furniture,11,6340.26,4489.62,Central,Joshi Wholesale
+2024-09-14,Premium Pen,Stationery,12,657.81,301.61,North,Reddy Distributors
+2024-09-14,Cotton T-Shirt,Apparel,23,506.9,221.3,South,Kapoor Goods
+2024-09-14,Water Bottle,Home,23,333.3,137.85,Central,Mehta Retail
+2024-09-15,Water Bottle,Home,15,311.86,138.03,East,Gupta Enterprises
+2024-09-15,Cotton T-Shirt,Apparel,22,456.6,218.87,Central,Verma Stores
+2024-09-15,Water Bottle,Home,28,331.15,140.52,Central,Mehta Retail
+2024-09-16,Cotton T-Shirt,Apparel,14,521.38,222.03,West,Saxena Stores
+2024-09-16,Premium Pen,Stationery,35,706.62,298.75,West,Iyer Supplies
+2024-09-16,Premium Pen,Stationery,29,729.57,295.5,South,Rao Merchandise
+2024-09-17,Air Fryer,Home,112,5607.1,3413.57,North,Khanna Outlets
+2024-09-17,Bluetooth Speaker,Electronics,24,2054.76,1346.35,West,Bose Retailers
+2024-09-17,Running Shoes,Apparel,21,2508.95,1348.77,North,Sharma Traders
+2024-09-18,Bluetooth Speaker,Electronics,28,1898.54,1306.62,West,Sharma Traders
+2024-09-19,Bookshelf,Furniture,23,3514.85,2209.28,North,Gupta Enterprises
+2024-09-20,USB-C Hub,Electronics,34,1588,887.35,South,Singh Sales
+2024-09-20,Premium Pen,Stationery,35,703.79,292.22,North,Saxena Stores
+2024-09-21,Water Bottle,Home,32,336.13,136.38,South,Nair Retail Hub
+2024-09-21,Wireless Mouse,Electronics,39,799.27,499.45,North,Singh Sales
+2024-09-21,Bookshelf,Furniture,17,3564.67,2250.62,West,Khanna Outlets
+2024-09-22,Cookware Set,Home,36,4084.21,2423.48,East,Nair Commerce
+2024-09-22,Denim Jacket,Apparel,19,1708.75,910.74,West,Iyer Supplies
+2024-09-22,Cotton T-Shirt,Apparel,60,523,221.99,East,Kapoor Goods
+2024-09-23,Air Fryer,Home,35,5350.44,3384.41,North,Mehta Retail
+2024-09-24,Denim Jacket,Apparel,14,1709.07,955.11,South,Malhotra Trading
+2024-09-25,Denim Jacket,Apparel,24,1699.23,919.85,West,Chopra Bazaar
+2024-09-26,Water Bottle,Home,20,360.02,141.97,Central,Saxena Stores
+2024-09-27,Denim Jacket,Apparel,11,1696.83,956.06,South,Gupta Enterprises
+2024-09-27,Bookshelf,Furniture,27,3354.13,2233.18,South,Malhotra Trading
+2024-09-28,Cotton T-Shirt,Apparel,32,475.98,225.08,East,Agarwal Mart
+2024-09-29,Notebook Set,Stationery,42,263.15,93.71,North,Chopra Bazaar
+2024-09-29,Air Fryer,Home,12,5752.94,3517.73,East,Nair Commerce
+2024-09-29,Wireless Mouse,Electronics,42,809.92,483.45,East,Saxena Stores
+2024-09-30,Bookshelf,Furniture,12,3467.25,2231.31,West,Verma Stores
+2024-09-30,Notebook Set,Stationery,38,231.09,92.98,North,Agarwal Mart
+2024-10-01,Water Bottle,Home,29,331.18,141.01,West,Nair Commerce
+2024-10-02,Bluetooth Speaker,Electronics,29,2199.64,1323.24,South,Iyer Supplies
+2024-10-03,Premium Pen,Stationery,33,603.88,290.31,West,Chopra Bazaar
+2024-10-03,Premium Pen,Stationery,40,722.65,285.47,East,Gupta Enterprises
+2024-10-03,Notebook Set,Stationery,16,260.28,93.36,South,Nair Retail Hub
+2024-10-04,Office Chair,Furniture,11,6582.73,4369.78,Central,Mehta Retail
+2024-10-05,Standing Desk,Furniture,21,13024.06,9427.06,Central,Bose Retailers
+2024-10-06,Bookshelf,Furniture,33,3366.62,2229.3,East,Nair Commerce
+2024-10-06,Bookshelf,Furniture,35,3600.86,2302.59,North,Reddy Distributors
+2024-10-07,Running Shoes,Apparel,21,2382.43,1348.1,West,Saxena Stores
+2024-10-07,Cotton T-Shirt,Apparel,14,511.68,224.95,South,Malhotra Trading
+2024-10-07,Office Chair,Furniture,12,6679.23,4518.15,South,Iyer Supplies
+2024-10-08,Cotton T-Shirt,Apparel,105,486.84,223.11,Central,Singh Sales
+2024-10-09,Bookshelf,Furniture,25,3162.8,2234.04,West,Sharma Traders
+2024-10-09,Air Fryer,Home,23,5553.44,3540.67,East,Chopra Bazaar
+2024-10-10,Water Bottle,Home,20,359.15,137.1,North,Joshi Wholesale
+2024-10-11,Bookshelf,Furniture,9,3373.42,2336.83,Central,Verma Stores
+2024-10-12,Office Chair,Furniture,36,6343.59,4314.12,East,Nair Commerce
+2024-10-12,Denim Jacket,Apparel,30,1734.3,945.39,West,Joshi Wholesale
+2024-10-12,Bookshelf,Furniture,18,3058.56,2269.94,West,Bose Retailers
+2024-10-13,Air Fryer,Home,22,5243.8,3515.4,South,Das & Sons
+2024-10-14,Running Shoes,Apparel,23,2614.19,1412.01,North,Khanna Outlets
+2024-10-15,USB-C Hub,Electronics,20,1550.49,877.3,South,Sharma Traders
+2024-10-15,Cotton T-Shirt,Apparel,8,527.57,222.08,South,Joshi Wholesale
+2024-10-15,Bookshelf,Furniture,28,3608.93,2238.08,East,Malhotra Trading
+2024-10-16,USB-C Hub,Electronics,23,1541.75,858.76,Central,Saxena Stores
+2024-10-17,Cookware Set,Home,18,3985.76,2436.78,East,Malhotra Trading
+2024-10-18,Bluetooth Speaker,Electronics,22,2126.3,1339.25,North,Rao Merchandise
+2024-10-18,Office Chair,Furniture,16,6445.28,4350.46,South,Nair Retail Hub
+2024-10-19,Bluetooth Speaker,Electronics,32,2150.65,1321.7,Central,Bose Retailers
+2024-10-19,USB-C Hub,Electronics,43,1521.14,865.99,South,Agarwal Mart
+2024-10-19,Wireless Mouse,Electronics,48,712.36,503.61,South,Chopra Bazaar
+2024-10-20,Notebook Set,Stationery,35,258.65,94.33,Central,Khanna Outlets
+2024-10-20,Bookshelf,Furniture,29,3584.45,2217.98,West,Agarwal Mart
+2024-10-21,Air Fryer,Home,47,5671.3,3375.34,East,Verma Stores
+2024-10-21,Standing Desk,Furniture,24,13687.04,9381.32,North,Saxena Stores
+2024-10-21,Bookshelf,Furniture,108,3629.83,2214.35,North,Reddy Distributors
+2024-10-22,Running Shoes,Apparel,29,2265.15,1400.49,North,Mehta Retail
+2024-10-22,Bluetooth Speaker,Electronics,10,2275.04,1310.44,Central,Mehta Retail
+2024-10-23,Bluetooth Speaker,Electronics,18,2285.38,1331.35,West,Singh Sales
+2024-10-24,Office Chair,Furniture,11,6149.46,4374.33,North,Rao Merchandise
+2024-10-25,Wireless Mouse,Electronics,15,793.28,505.59,South,Bose Retailers
+2024-10-25,USB-C Hub,Electronics,34,1431.26,894.93,West,Rao Merchandise
+2024-10-26,Wireless Mouse,Electronics,40,816.38,490.58,North,Agarwal Mart
+2024-10-26,Office Chair,Furniture,42,6275.79,4377.01,West,Gupta Enterprises
+2024-10-26,Office Chair,Furniture,22,6508.28,4350.55,West,Joshi Wholesale
+2024-10-27,Denim Jacket,Apparel,36,1843.28,945.7,South,Kapoor Goods
+2024-10-27,Denim Jacket,Apparel,30,1883.45,936.71,Central,Nair Commerce
+2024-10-28,Running Shoes,Apparel,12,2630.34,1415.05,East,Gupta Enterprises
+2024-10-28,Wireless Mouse,Electronics,38,837.52,488.54,North,Joshi Wholesale
+2024-10-28,Wireless Mouse,Electronics,19,841.83,504.44,South,Nair Commerce
+2024-10-29,Running Shoes,Apparel,26,2149.27,1360.76,North,Reddy Distributors
+2024-10-29,Premium Pen,Stationery,37,683.46,291.27,South,Chopra Bazaar
+2024-10-30,Cotton T-Shirt,Apparel,21,492,222.98,West,Nair Commerce
+2024-10-30,Office Chair,Furniture,32,6430.18,4428.23,East,Mehta Retail
+2024-10-31,Denim Jacket,Apparel,38,1714.99,953.11,Central,Kapoor Goods
+2024-11-01,Water Bottle,Home,18,360.89,138.48,Central,Joshi Wholesale
+2024-11-01,Bluetooth Speaker,Electronics,30,2143.51,1333.31,East,Agarwal Mart
+2024-11-01,Bookshelf,Furniture,20,3543.78,2238.39,Central,Gupta Enterprises
+2024-11-02,Bluetooth Speaker,Electronics,18,2200.77,1303.92,South,Joshi Wholesale
+2024-11-03,Cotton T-Shirt,Apparel,27,501.65,225.61,South,Chopra Bazaar
+2024-11-03,USB-C Hub,Electronics,53,1572.07,887.16,South,Sharma Traders
+2024-11-04,Standing Desk,Furniture,12,13704.01,9223.09,South,Sharma Traders
+2024-11-04,LED Desk Lamp,Home,27,966.01,513.03,West,Nair Commerce
+2024-11-04,Running Shoes,Apparel,19,2569.03,1360.97,South,Das & Sons
+2024-11-05,Running Shoes,Apparel,12,2594.47,1400.47,West,Mehta Retail
+2024-11-05,Office Chair,Furniture,27,6486.67,4542.27,West,Mehta Retail
+2024-11-05,Wireless Mouse,Electronics,39,806.45,485.5,East,Verma Stores
+2024-11-06,Water Bottle,Home,20,367.21,142.64,East,Rao Merchandise
+2024-11-06,Cotton T-Shirt,Apparel,22,528.03,219.75,South,Verma Stores
+2024-11-06,Denim Jacket,Apparel,29,1742.29,957.24,North,Verma Stores
+2024-11-07,Air Fryer,Home,23,4711.55,3383.53,South,Rao Merchandise
+2024-11-07,Cookware Set,Home,39,3803.07,2367.97,South,Malhotra Trading
+2024-11-08,Premium Pen,Stationery,29,691.22,289.38,North,Sharma Traders
+2024-11-08,Bluetooth Speaker,Electronics,27,2244.04,1329.72,Central,Agarwal Mart
+2024-11-09,Premium Pen,Stationery,15,657.48,287.11,Central,Mehta Retail
+2024-11-09,Office Chair,Furniture,12,6574.2,4388.04,Central,Sharma Traders
+2024-11-09,Denim Jacket,Apparel,28,1744.84,912.15,North,Gupta Enterprises
+2024-11-10,Running Shoes,Apparel,18,2403.53,1350.92,East,Nair Commerce
+2024-11-11,Denim Jacket,Apparel,36,1854.16,944.17,North,Reddy Distributors
+2024-11-11,Air Fryer,Home,35,5609.76,3366.32,North,Agarwal Mart
+2024-11-11,USB-C Hub,Electronics,18,1585.52,848.05,North,Khanna Outlets
+2024-11-12,USB-C Hub,Electronics,18,1447.56,865.65,East,Verma Stores
+2024-11-13,Bookshelf,Furniture,31,3447.91,2235.38,West,Nair Retail Hub
+2024-11-13,Office Chair,Furniture,30,6536.8,4439.61,West,Gupta Enterprises
+2024-11-14,Air Fryer,Home,21,5578.09,3370.11,Central,Iyer Supplies
+2024-11-14,Standing Desk,Furniture,28,12359.81,9623.41,Central,Gupta Enterprises
+2024-11-14,USB-C Hub,Electronics,36,1396.66,871.29,South,Iyer Supplies
+2024-11-15,Denim Jacket,Apparel,30,1784.52,925.1,East,Singh Sales
+2024-11-16,Air Fryer,Home,62,5508.11,3461.61,East,Bose Retailers
+2024-11-16,Running Shoes,Apparel,20,2454.01,1336.46,East,Malhotra Trading
+2024-11-17,Cookware Set,Home,20,3822.87,2426.38,West,Bose Retailers
+2024-11-17,Denim Jacket,Apparel,30,1823.39,954.46,Central,Nair Commerce
+2024-11-17,LED Desk Lamp,Home,31,1029.71,509.78,Central,Gupta Enterprises
+2024-11-18,Premium Pen,Stationery,36,605.97,293.21,West,Sharma Traders
+2024-11-19,Office Chair,Furniture,16,6638.12,4476.32,East,Sharma Traders
+2024-11-19,LED Desk Lamp,Home,12,877.26,503.62,South,Agarwal Mart
+2024-11-19,Wireless Mouse,Electronics,19,793.73,506.93,East,Reddy Distributors
+2024-11-20,Standing Desk,Furniture,37,13357.37,9393.83,East,Nair Retail Hub
+2024-11-21,Cookware Set,Home,28,3466.73,2355.25,East,Patel Mart
+2024-11-21,Air Fryer,Home,52,5424.48,3516.36,East,Nair Retail Hub
+2024-11-22,Cotton T-Shirt,Apparel,8,478.7,223.13,West,Nair Retail Hub
+2024-11-23,Bookshelf,Furniture,30,3207.54,2211.81,East,Sharma Traders
+2024-11-23,Standing Desk,Furniture,28,11655.79,9566.32,West,Kapoor Goods
+2024-11-23,Bluetooth Speaker,Electronics,33,2264.49,1342.81,South,Agarwal Mart
+2024-11-24,Air Fryer,Home,43,5243.67,3519.13,Central,Kapoor Goods
+2024-11-24,Air Fryer,Home,38,5173.17,3393.95,West,Nair Commerce
+2024-11-25,Notebook Set,Stationery,17,249.63,95.77,North,Nair Retail Hub
+2024-11-25,Water Bottle,Home,17,338.63,141.33,West,Saxena Stores
+2024-11-25,Cookware Set,Home,15,3926.34,2331.18,West,Nair Retail Hub
+2024-11-26,Cotton T-Shirt,Apparel,22,483.93,225.99,Central,Reddy Distributors
+2024-11-27,Standing Desk,Furniture,35,12777.51,9391.07,Central,Kapoor Goods
+2024-11-27,Air Fryer,Home,57,5535.38,3420.56,East,Agarwal Mart
+2024-11-28,Denim Jacket,Apparel,26,1724.64,937.13,East,Das & Sons
+2024-11-29,Office Chair,Furniture,27,6561.77,4506.29,West,Rao Merchandise
+2024-11-29,Notebook Set,Stationery,13,254.96,93.79,South,Khanna Outlets
+2024-11-29,USB-C Hub,Electronics,15,1561.22,873.3,South,Bose Retailers
+2024-11-30,Standing Desk,Furniture,23,13437.54,9526.98,Central,Joshi Wholesale
+2024-11-30,Denim Jacket,Apparel,23,1640.76,941.92,North,Mehta Retail
+2024-11-30,Running Shoes,Apparel,95,2627.28,1347.19,West,Malhotra Trading
+2024-12-01,Cotton T-Shirt,Apparel,19,500.31,219.28,North,Nair Commerce
+2024-12-01,Air Fryer,Home,68,5632.7,3511.67,North,Agarwal Mart
+2024-12-02,Standing Desk,Furniture,29,13085.35,9390.01,North,Sharma Traders
+2024-12-03,Cookware Set,Home,14,4044.65,2448.56,South,Kapoor Goods
+2024-12-03,LED Desk Lamp,Home,38,1049,485.27,South,Rao Merchandise
+2024-12-03,Running Shoes,Apparel,15,2438.28,1343.89,South,Das & Sons
+2024-12-04,Water Bottle,Home,18,350.28,142.21,South,Joshi Wholesale
+2024-12-05,Cotton T-Shirt,Apparel,13,522.09,230.44,West,Bose Retailers
+2024-12-05,Running Shoes,Apparel,13,2359.26,1356.74,East,Iyer Supplies
+2024-12-06,Bluetooth Speaker,Electronics,152,2284.48,1307.25,West,Iyer Supplies
+2024-12-06,Denim Jacket,Apparel,88,1650.85,957.62,East,Reddy Distributors
+2024-12-07,Bookshelf,Furniture,29,3622.94,2238.97,West,Mehta Retail
+2024-12-07,Notebook Set,Stationery,100,217.54,94.56,West,Reddy Distributors
+2024-12-07,Cookware Set,Home,33,4124.84,2408.78,North,Das & Sons
+2024-12-08,Bluetooth Speaker,Electronics,53,2323.73,1281.94,East,Chopra Bazaar
+2024-12-09,Bookshelf,Furniture,20,3371.32,2258.91,Central,Das & Sons
+2024-12-09,Denim Jacket,Apparel,16,1768.06,948.53,North,Saxena Stores
+2024-12-09,Denim Jacket,Apparel,22,1855.92,923.14,North,Verma Stores
+2024-12-10,Water Bottle,Home,14,348.52,141.79,East,Das & Sons
+2024-12-10,Premium Pen,Stationery,35,717.11,287.67,West,Bose Retailers
+2024-12-10,Notebook Set,Stationery,20,213.12,94.86,Central,Bose Retailers
+2024-12-11,Cotton T-Shirt,Apparel,10,486.5,231.01,North,Verma Stores
+2024-12-11,Office Chair,Furniture,29,6221.76,4523.1,Central,Gupta Enterprises
+2024-12-12,Wireless Mouse,Electronics,24,753.21,497.53,East,Agarwal Mart
+2024-12-13,LED Desk Lamp,Home,29,1003.27,498.27,North,Malhotra Trading
+2024-12-14,Water Bottle,Home,11,328.12,139.19,West,Malhotra Trading
+2024-12-15,Water Bottle,Home,15,334.97,135.43,South,Rao Merchandise

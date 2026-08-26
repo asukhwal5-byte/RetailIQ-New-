@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RetailIQ — Dashboard (Standalone)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="logo">
+        <div class="logo-icon">IQ</div>
+        <div class="logo-text"><strong>RetailIQ</strong><small>Sales Intelligence</small></div>
+      </div>
+      <nav id="nav"></nav>
+    </aside>
+    <main class="content">
+      <header class="topbar">
+        <h1 id="page-title">Dashboard</h1>
+        <div class="data-badge" id="data-badge">Loading…</div>
+      </header>
+      <div id="kpi-grid" class="kpi-grid"></div>
+      <div id="charts" class="charts"></div>
+    </main>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
